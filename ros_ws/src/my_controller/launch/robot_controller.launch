@@ -1,0 +1,11 @@
+<!-- This file launches all of the nodes needed for the competition -->
+
+<launch>
+    <!-- Launch the main controller -->
+    <node pkg="my_controller" type="robot_controller.py" name="robot_controller"  output="screen" />
+    <!-- Launch the seperate node for plate detection -->
+    <node pkg="my_controller" type="plate_detection.py" name="plate_detection" output="screen" /> 
+    <!-- output="screen"  add this to see dictionary output-->
+    <!-- <node pkg="my_controller" type="inner_loop_PID.py" name="pid_for_loop" output="screen"/>  -->
+    <!-- output="screen"  add this to see dictionary output-->
+</launch>

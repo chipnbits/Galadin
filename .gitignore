@@ -1,0 +1,73 @@
+gym_gazebo/envs/ros_ws/build
+gym_gazebo/envs/ros_ws/devel
+
+/examples/gazebo_cartpole/*.pkl
+
+*.swp
+*.pyc
+*.py~
+.DS_Store
+.cache
+
+# Setuptools distribution and build folders.
+/dist/
+/build
+
+# Virtualenv
+/env
+
+# Python egg metadata, regenerated from source files by setuptools.
+/*.egg-info
+
+*.sublime-project
+*.sublime-workspace
+*.vscode
+
+logs/
+
+.ipynb_checkpoints
+ghostdriver.log
+
+junk
+MUJOCO_LOG.txt
+
+rllab_mujoco
+
+tutorial/*.html
+
+# IDE files
+.eggs
+.tox
+
+# PyCharm project files
+.idea
+vizdoom.ini
+
+# Gazebo project files
+catkin_ws/
+apm/
+sophus/
+eeprom.bin
+mav.tlog
+mav.tlog.raw
+mav.parm
+terrain/
+Theano/
+
+
+# Custom additions
+build/
+devel/
+letter_images/
+saved_images/
+overnight_images_backup/
+sliced_images/
+parking_spot_numbers/
+enph353/enph353_gazebo/media/materials/textures/labelled/*
+enph353/enph353_gazebo/media/materials/textures/unlabelled/*
+enph353/enph353_gazebo/nodes/*.csv
+enph353/enph353_gazebo/scripts/QRCode_*.png
+enph353/enph353_utils/scripts/*.txt
+Galadin_*_*.txt
+NO_NAME_*_*.txt
+QRCode*.png

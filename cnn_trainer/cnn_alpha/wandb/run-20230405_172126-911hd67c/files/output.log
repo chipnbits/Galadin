@@ -1,0 +1,155 @@
+
+wandb: WARNING The save_model argument by default saves the model in the HDF5 format that cannot save custom objects like subclassed models and custom layers. This behavior will be deprecated in a future release in favor of the SavedModel format. Meanwhile, the HDF5 model is saved as W&B files and the SavedModel as W&B Artifacts.
+Epoch 1/40
+2023-04-05 17:21:29.215476: I tensorflow/compiler/xla/stream_executor/cuda/cuda_dnn.cc:428] Loaded cuDNN version 8100
+2023-04-05 17:21:30.901220: I tensorflow/tsl/platform/default/subprocess.cc:304] Start cannot spawn child process: No such file or directory
+2023-04-05 17:21:31.004105: I tensorflow/compiler/xla/stream_executor/cuda/cuda_blas.cc:630] TensorFloat-32 will be used for the matrix multiplication. This will only be logged once.
+
+
+385/385 [==============================] - ETA: 0s - loss: 1.8550 - acc: 0.5031
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 4 of 4). These functions will not be directly callable after loading.
+INFO:tensorflow:Assets written to: /home/sghyseli/gadalin/cnn_trainer/cnn_alpha/wandb/run-20230405_172126-911hd67c/files/model-best/assets
+
+385/385 [==============================] - ETA: 0s - loss: 1.8550 - acc: 0.5031INFO:tensorflow:Assets written to: /home/sghyseli/gadalin/cnn_trainer/cnn_alpha/wandb/run-20230405_172126-911hd67c/files/model-best/assets
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 4 of 4). These functions will not be directly callable after loading.
+INFO:tensorflow:Assets written to: /home/sghyseli/gadalin/cnn_trainer/cnn_alpha/wandb/run-20230405_172126-911hd67c/files/model-best/assets
+wandb: Adding directory to artifact (/home/sghyseli/gadalin/cnn_trainer/cnn_alpha/wandb/run-20230405_172126-911hd67c/files/model-best)... Done. 0.0s
+Epoch 1: saving model to /home/sghyseli/gadalin/cnn_trainer/cnn_alpha/weights/epoch_01.h5
+385/385 [==============================] - 16s 31ms/step - loss: 1.8550 - acc: 0.5031 - val_loss: 0.6563 - val_acc: 0.8354
+Epoch 2/40
+380/385 [============================>.] - ETA: 0s - loss: 0.5551 - acc: 0.8525INFO:tensorflow:Assets written to: /home/sghyseli/gadalin/cnn_trainer/cnn_alpha/wandb/run-20230405_172126-911hd67c/files/model-best/assets
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 4 of 4). These functions will not be directly callable after loading.
+INFO:tensorflow:Assets written to: /home/sghyseli/gadalin/cnn_trainer/cnn_alpha/wandb/run-20230405_172126-911hd67c/files/model-best/assets
+wandb: Adding directory to artifact (/home/sghyseli/gadalin/cnn_trainer/cnn_alpha/wandb/run-20230405_172126-911hd67c/files/model-best)... Done. 0.0s
+Epoch 2: saving model to /home/sghyseli/gadalin/cnn_trainer/cnn_alpha/weights/epoch_02.h5
+385/385 [==============================] - 17s 45ms/step - loss: 0.5535 - acc: 0.8531 - val_loss: 0.3617 - val_acc: 0.9109
+Epoch 3/40
+383/385 [============================>.] - ETA: 0s - loss: 0.3201 - acc: 0.9145INFO:tensorflow:Assets written to: /home/sghyseli/gadalin/cnn_trainer/cnn_alpha/wandb/run-20230405_172126-911hd67c/files/model-best/assets
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 4 of 4). These functions will not be directly callable after loading.
+INFO:tensorflow:Assets written to: /home/sghyseli/gadalin/cnn_trainer/cnn_alpha/wandb/run-20230405_172126-911hd67c/files/model-best/assets
+wandb: Adding directory to artifact (/home/sghyseli/gadalin/cnn_trainer/cnn_alpha/wandb/run-20230405_172126-911hd67c/files/model-best)... Done. 0.1s
+Epoch 3: saving model to /home/sghyseli/gadalin/cnn_trainer/cnn_alpha/weights/epoch_03.h5
+385/385 [==============================] - 6s 16ms/step - loss: 0.3195 - acc: 0.9146 - val_loss: 0.2629 - val_acc: 0.9310
+Epoch 4/40
+382/385 [============================>.] - ETA: 0s - loss: 0.2280 - acc: 0.9413INFO:tensorflow:Assets written to: /home/sghyseli/gadalin/cnn_trainer/cnn_alpha/wandb/run-20230405_172126-911hd67c/files/model-best/assets
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 4 of 4). These functions will not be directly callable after loading.
+INFO:tensorflow:Assets written to: /home/sghyseli/gadalin/cnn_trainer/cnn_alpha/wandb/run-20230405_172126-911hd67c/files/model-best/assets
+wandb: Adding directory to artifact (/home/sghyseli/gadalin/cnn_trainer/cnn_alpha/wandb/run-20230405_172126-911hd67c/files/model-best)... Done. 0.1s
+Epoch 4: saving model to /home/sghyseli/gadalin/cnn_trainer/cnn_alpha/weights/epoch_04.h5
+385/385 [==============================] - 7s 17ms/step - loss: 0.2270 - acc: 0.9416 - val_loss: 0.1884 - val_acc: 0.9517
+Epoch 5/40
+385/385 [==============================] - ETA: 0s - loss: 0.1713 - acc: 0.9525INFO:tensorflow:Assets written to: /home/sghyseli/gadalin/cnn_trainer/cnn_alpha/wandb/run-20230405_172126-911hd67c/files/model-best/assets
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 4 of 4). These functions will not be directly callable after loading.
+INFO:tensorflow:Assets written to: /home/sghyseli/gadalin/cnn_trainer/cnn_alpha/wandb/run-20230405_172126-911hd67c/files/model-best/assets
+wandb: Adding directory to artifact (/home/sghyseli/gadalin/cnn_trainer/cnn_alpha/wandb/run-20230405_172126-911hd67c/files/model-best)... Done. 0.0s
+Epoch 5: saving model to /home/sghyseli/gadalin/cnn_trainer/cnn_alpha/weights/epoch_05.h5
+385/385 [==============================] - 27s 71ms/step - loss: 0.1713 - acc: 0.9525 - val_loss: 0.1656 - val_acc: 0.9634
+Epoch 6/40
+381/385 [============================>.] - ETA: 0s - loss: 0.1318 - acc: 0.9637INFO:tensorflow:Assets written to: /home/sghyseli/gadalin/cnn_trainer/cnn_alpha/wandb/run-20230405_172126-911hd67c/files/model-best/assets
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 4 of 4). These functions will not be directly callable after loading.
+INFO:tensorflow:Assets written to: /home/sghyseli/gadalin/cnn_trainer/cnn_alpha/wandb/run-20230405_172126-911hd67c/files/model-best/assets
+wandb: Adding directory to artifact (/home/sghyseli/gadalin/cnn_trainer/cnn_alpha/wandb/run-20230405_172126-911hd67c/files/model-best)... Done. 0.0s
+Epoch 6: saving model to /home/sghyseli/gadalin/cnn_trainer/cnn_alpha/weights/epoch_06.h5
+385/385 [==============================] - 22s 58ms/step - loss: 0.1321 - acc: 0.9637 - val_loss: 0.1359 - val_acc: 0.9702
+Epoch 7/40
+382/385 [============================>.] - ETA: 0s - loss: 0.1079 - acc: 0.9710INFO:tensorflow:Assets written to: /home/sghyseli/gadalin/cnn_trainer/cnn_alpha/wandb/run-20230405_172126-911hd67c/files/model-best/assets
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 4 of 4). These functions will not be directly callable after loading.
+INFO:tensorflow:Assets written to: /home/sghyseli/gadalin/cnn_trainer/cnn_alpha/wandb/run-20230405_172126-911hd67c/files/model-best/assets
+wandb: Adding directory to artifact (/home/sghyseli/gadalin/cnn_trainer/cnn_alpha/wandb/run-20230405_172126-911hd67c/files/model-best)... Done. 0.1s
+Epoch 7: saving model to /home/sghyseli/gadalin/cnn_trainer/cnn_alpha/weights/epoch_07.h5
+385/385 [==============================] - 6s 16ms/step - loss: 0.1082 - acc: 0.9710 - val_loss: 0.1213 - val_acc: 0.9734
+Epoch 8/40
+381/385 [============================>.] - ETA: 0s - loss: 0.0890 - acc: 0.9774INFO:tensorflow:Assets written to: /home/sghyseli/gadalin/cnn_trainer/cnn_alpha/wandb/run-20230405_172126-911hd67c/files/model-best/assets
+Epoch 8: saving model to /home/sghyseli/gadalin/cnn_trainer/cnn_alpha/weights/epoch_08.h5
+385/385 [==============================] - 12s 30ms/step - loss: 0.0885 - acc: 0.9775 - val_loss: 0.1168 - val_acc: 0.9747
+Epoch 9/40
+381/385 [============================>.] - ETA: 0s - loss: 0.0746 - acc: 0.9797INFO:tensorflow:Assets written to: /home/sghyseli/gadalin/cnn_trainer/cnn_alpha/wandb/run-20230405_172126-911hd67c/files/model-best/assets
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 4 of 4). These functions will not be directly callable after loading.
+INFO:tensorflow:Assets written to: /home/sghyseli/gadalin/cnn_trainer/cnn_alpha/wandb/run-20230405_172126-911hd67c/files/model-best/assets
+wandb: Adding directory to artifact (/home/sghyseli/gadalin/cnn_trainer/cnn_alpha/wandb/run-20230405_172126-911hd67c/files/model-best)... Done. 0.1s
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 4 of 4). These functions will not be directly callable after loading.
+INFO:tensorflow:Assets written to: /home/sghyseli/gadalin/cnn_trainer/cnn_alpha/wandb/run-20230405_172126-911hd67c/files/model-best/assets
+wandb: Adding directory to artifact (/home/sghyseli/gadalin/cnn_trainer/cnn_alpha/wandb/run-20230405_172126-911hd67c/files/model-best)... Done. 0.1s
+Epoch 9: saving model to /home/sghyseli/gadalin/cnn_trainer/cnn_alpha/weights/epoch_09.h5
+385/385 [==============================] - 7s 18ms/step - loss: 0.0741 - acc: 0.9798 - val_loss: 0.1044 - val_acc: 0.9783
+Epoch 10/40
+382/385 [============================>.] - ETA: 0s - loss: 0.0633 - acc: 0.9829
+Epoch 10: saving model to /home/sghyseli/gadalin/cnn_trainer/cnn_alpha/weights/epoch_10.h5
+385/385 [==============================] - 4s 12ms/step - loss: 0.0633 - acc: 0.9829 - val_loss: 0.1147 - val_acc: 0.9764
+Epoch 11/40
+381/385 [============================>.] - ETA: 0s - loss: 0.0584 - acc: 0.9843INFO:tensorflow:Assets written to: /home/sghyseli/gadalin/cnn_trainer/cnn_alpha/wandb/run-20230405_172126-911hd67c/files/model-best/assets
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 4 of 4). These functions will not be directly callable after loading.
+INFO:tensorflow:Assets written to: /home/sghyseli/gadalin/cnn_trainer/cnn_alpha/wandb/run-20230405_172126-911hd67c/files/model-best/assets
+wandb: Adding directory to artifact (/home/sghyseli/gadalin/cnn_trainer/cnn_alpha/wandb/run-20230405_172126-911hd67c/files/model-best)... Done. 0.1s
+Epoch 11: saving model to /home/sghyseli/gadalin/cnn_trainer/cnn_alpha/weights/epoch_11.h5
+385/385 [==============================] - 12s 33ms/step - loss: 0.0583 - acc: 0.9842 - val_loss: 0.0994 - val_acc: 0.9812
+Epoch 12/40
+381/385 [============================>.] - ETA: 0s - loss: 0.0432 - acc: 0.9898INFO:tensorflow:Assets written to: /home/sghyseli/gadalin/cnn_trainer/cnn_alpha/wandb/run-20230405_172126-911hd67c/files/model-best/assets
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 4 of 4). These functions will not be directly callable after loading.
+INFO:tensorflow:Assets written to: /home/sghyseli/gadalin/cnn_trainer/cnn_alpha/wandb/run-20230405_172126-911hd67c/files/model-best/assets
+wandb: Adding directory to artifact (/home/sghyseli/gadalin/cnn_trainer/cnn_alpha/wandb/run-20230405_172126-911hd67c/files/model-best)... Done. 0.0s
+Epoch 12: saving model to /home/sghyseli/gadalin/cnn_trainer/cnn_alpha/weights/epoch_12.h5
+385/385 [==============================] - 14s 36ms/step - loss: 0.0440 - acc: 0.9895 - val_loss: 0.0940 - val_acc: 0.9809
+Epoch 13/40
+381/385 [============================>.] - ETA: 0s - loss: 0.0396 - acc: 0.9896INFO:tensorflow:Assets written to: /home/sghyseli/gadalin/cnn_trainer/cnn_alpha/wandb/run-20230405_172126-911hd67c/files/model-best/assets
+Epoch 13: saving model to /home/sghyseli/gadalin/cnn_trainer/cnn_alpha/weights/epoch_13.h5
+385/385 [==============================] - 18s 48ms/step - loss: 0.0393 - acc: 0.9897 - val_loss: 0.0871 - val_acc: 0.9835
+Epoch 14/40
+385/385 [==============================] - ETA: 0s - loss: 0.0341 - acc: 0.9907
+Epoch 14: saving model to /home/sghyseli/gadalin/cnn_trainer/cnn_alpha/weights/epoch_14.h5
+385/385 [==============================] - 4s 11ms/step - loss: 0.0341 - acc: 0.9907 - val_loss: 0.1085 - val_acc: 0.9828
+Epoch 15/40
+382/385 [============================>.] - ETA: 0s - loss: 0.0319 - acc: 0.9917
+Epoch 15: saving model to /home/sghyseli/gadalin/cnn_trainer/cnn_alpha/weights/epoch_15.h5
+385/385 [==============================] - 5s 12ms/step - loss: 0.0322 - acc: 0.9916 - val_loss: 0.1103 - val_acc: 0.9812
+Epoch 16/40
+381/385 [============================>.] - ETA: 0s - loss: 0.0277 - acc: 0.9924
+Epoch 16: saving model to /home/sghyseli/gadalin/cnn_trainer/cnn_alpha/weights/epoch_16.h5
+385/385 [==============================] - 5s 12ms/step - loss: 0.0276 - acc: 0.9924 - val_loss: 0.1205 - val_acc: 0.9786
+Epoch 17/40
+381/385 [============================>.] - ETA: 0s - loss: 0.0252 - acc: 0.9928
+Epoch 17: saving model to /home/sghyseli/gadalin/cnn_trainer/cnn_alpha/weights/epoch_17.h5
+385/385 [==============================] - 5s 12ms/step - loss: 0.0251 - acc: 0.9928 - val_loss: 0.0959 - val_acc: 0.9819
+Epoch 18/40
+381/385 [============================>.] - ETA: 0s - loss: 0.0207 - acc: 0.9942
+Epoch 18: saving model to /home/sghyseli/gadalin/cnn_trainer/cnn_alpha/weights/epoch_18.h5
+385/385 [==============================] - 5s 12ms/step - loss: 0.0205 - acc: 0.9942 - val_loss: 0.1352 - val_acc: 0.9793
+Epoch 19/40
+384/385 [============================>.] - ETA: 0s - loss: 0.0214 - acc: 0.9940
+Epoch 19: saving model to /home/sghyseli/gadalin/cnn_trainer/cnn_alpha/weights/epoch_19.h5
+385/385 [==============================] - 5s 12ms/step - loss: 0.0214 - acc: 0.9940 - val_loss: 0.0942 - val_acc: 0.9851
+Epoch 20/40
+381/385 [============================>.] - ETA: 0s - loss: 0.0177 - acc: 0.9945
+Epoch 20: saving model to /home/sghyseli/gadalin/cnn_trainer/cnn_alpha/weights/epoch_20.h5
+385/385 [==============================] - 5s 12ms/step - loss: 0.0176 - acc: 0.9945 - val_loss: 0.1012 - val_acc: 0.9828
+Epoch 21/40
+381/385 [============================>.] - ETA: 0s - loss: 0.0152 - acc: 0.9945
+Epoch 21: saving model to /home/sghyseli/gadalin/cnn_trainer/cnn_alpha/weights/epoch_21.h5
+385/385 [==============================] - 5s 12ms/step - loss: 0.0152 - acc: 0.9945 - val_loss: 0.1062 - val_acc: 0.9845
+Epoch 22/40
+382/385 [============================>.] - ETA: 0s - loss: 0.0145 - acc: 0.9959
+Epoch 22: saving model to /home/sghyseli/gadalin/cnn_trainer/cnn_alpha/weights/epoch_22.h5
+385/385 [==============================] - 5s 12ms/step - loss: 0.0145 - acc: 0.9959 - val_loss: 0.1102 - val_acc: 0.9854
+Epoch 23/40
+382/385 [============================>.] - ETA: 0s - loss: 0.0142 - acc: 0.9961
+Epoch 23: saving model to /home/sghyseli/gadalin/cnn_trainer/cnn_alpha/weights/epoch_23.h5
+385/385 [==============================] - 5s 12ms/step - loss: 0.0142 - acc: 0.9961 - val_loss: 0.1040 - val_acc: 0.9851
+Epoch 24/40
+381/385 [============================>.] - ETA: 0s - loss: 0.0176 - acc: 0.9949
+Epoch 24: saving model to /home/sghyseli/gadalin/cnn_trainer/cnn_alpha/weights/epoch_24.h5
+385/385 [==============================] - 5s 12ms/step - loss: 0.0174 - acc: 0.9950 - val_loss: 0.1107 - val_acc: 0.9832
+Epoch 25/40
+384/385 [============================>.] - ETA: 0s - loss: 0.0106 - acc: 0.9965
+Epoch 25: saving model to /home/sghyseli/gadalin/cnn_trainer/cnn_alpha/weights/epoch_25.h5
+385/385 [==============================] - 5s 12ms/step - loss: 0.0106 - acc: 0.9965 - val_loss: 0.1145 - val_acc: 0.9841
+Epoch 26/40
+381/385 [============================>.] - ETA: 0s - loss: 0.0093 - acc: 0.9970
+Epoch 26: saving model to /home/sghyseli/gadalin/cnn_trainer/cnn_alpha/weights/epoch_26.h5
+385/385 [==============================] - 5s 12ms/step - loss: 0.0095 - acc: 0.9969 - val_loss: 0.1232 - val_acc: 0.9845
+Epoch 27/40
+384/385 [============================>.] - ETA: 0s - loss: 0.0095 - acc: 0.9965
+Epoch 27: saving model to /home/sghyseli/gadalin/cnn_trainer/cnn_alpha/weights/epoch_27.h5
+385/385 [==============================] - 5s 12ms/step - loss: 0.0095 - acc: 0.9965 - val_loss: 0.1326 - val_acc: 0.9845
+Epoch 28/40
+
+385/385 [==============================] - 5s 12ms/step - loss: 0.0053 - acc: 0.9986 - val_loss: 0.1272 - val_acc: 0.9861

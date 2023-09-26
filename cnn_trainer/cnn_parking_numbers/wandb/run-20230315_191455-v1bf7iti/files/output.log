@@ -1,0 +1,231 @@
+Epoch 1/140
+81/84 [===========================>..] - ETA: 0s - loss: 2.3915e-09 - acc: 1.0000INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_191455-v1bf7iti/files/model-best/assets
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 2 of 2). These functions will not be directly callable after loading.
+INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_191455-v1bf7iti/files/model-best/assets
+wandb: Adding directory to artifact (/home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_191455-v1bf7iti/files/model-best)... Done. 0.0s
+84/84 [==============================] - 2s 14ms/step - loss: 1.0513e-08 - acc: 1.0000 - val_loss: 0.0153 - val_acc: 0.9985
+Epoch 2/140
+76/84 [==========================>...] - ETA: 0s - loss: 1.5095e-07 - acc: 1.0000INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_191455-v1bf7iti/files/model-best/assets
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 2 of 2). These functions will not be directly callable after loading.
+INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_191455-v1bf7iti/files/model-best/assets
+wandb: Adding directory to artifact (/home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_191455-v1bf7iti/files/model-best)... Done. 0.0s
+84/84 [==============================] - 1s 16ms/step - loss: 1.3736e-07 - acc: 1.0000 - val_loss: 0.0147 - val_acc: 0.9985
+Epoch 3/140
+84/84 [==============================] - 0s 5ms/step - loss: 6.6821e-10 - acc: 1.0000 - val_loss: 0.0147 - val_acc: 0.9985
+Epoch 4/140
+71/84 [========================>.....] - ETA: 0s - loss: 2.7048e-05 - acc: 1.0000INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_191455-v1bf7iti/files/model-best/assets
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 2 of 2). These functions will not be directly callable after loading.
+INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_191455-v1bf7iti/files/model-best/assets
+wandb: Adding directory to artifact (/home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_191455-v1bf7iti/files/model-best)... Done. 0.0s
+84/84 [==============================] - 1s 12ms/step - loss: 2.2966e-05 - acc: 1.0000 - val_loss: 0.0140 - val_acc: 0.9985
+Epoch 5/140
+80/84 [===========================>..] - ETA: 0s - loss: 3.0265e-07 - acc: 1.0000
+Epoch 5: saving model to /home/sghyseli/cnn_trainer/cnn_parking_numbers/weights/epoch_05.h5
+84/84 [==============================] - 0s 4ms/step - loss: 2.8966e-07 - acc: 1.0000 - val_loss: 0.0147 - val_acc: 0.9985
+Epoch 6/140
+84/84 [==============================] - 0s 4ms/step - loss: 4.3656e-09 - acc: 1.0000 - val_loss: 0.0147 - val_acc: 0.9985
+Epoch 7/140
+84/84 [==============================] - 0s 4ms/step - loss: 1.2473e-08 - acc: 1.0000 - val_loss: 0.0141 - val_acc: 0.9985
+Epoch 8/140
+83/84 [============================>.] - ETA: 0s - loss: 1.4496e-07 - acc: 1.0000INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_191455-v1bf7iti/files/model-best/assets
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 2 of 2). These functions will not be directly callable after loading.
+INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_191455-v1bf7iti/files/model-best/assets
+wandb: Adding directory to artifact (/home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_191455-v1bf7iti/files/model-best)... Done. 0.0s
+84/84 [==============================] - 1s 12ms/step - loss: 1.4387e-07 - acc: 1.0000 - val_loss: 0.0139 - val_acc: 0.9985
+Epoch 9/140
+80/84 [===========================>..] - ETA: 0s - loss: 5.5278e-05 - acc: 1.0000INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_191455-v1bf7iti/files/model-best/assets
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 2 of 2). These functions will not be directly callable after loading.
+INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_191455-v1bf7iti/files/model-best/assets
+wandb: Adding directory to artifact (/home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_191455-v1bf7iti/files/model-best)... Done. 0.0s
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 2 of 2). These functions will not be directly callable after loading.
+INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_191455-v1bf7iti/files/model-best/assets
+wandb: Adding directory to artifact (/home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_191455-v1bf7iti/files/model-best)... Done. 0.0s
+84/84 [==============================] - 1s 12ms/step - loss: 5.2882e-05 - acc: 1.0000 - val_loss: 0.0132 - val_acc: 0.9985
+Epoch 10/140
+82/84 [============================>.] - ETA: 0s - loss: 4.9019e-08 - acc: 1.0000
+Epoch 10: saving model to /home/sghyseli/cnn_trainer/cnn_parking_numbers/weights/epoch_10.h5
+84/84 [==============================] - 0s 4ms/step - loss: 4.8066e-08 - acc: 1.0000 - val_loss: 0.0133 - val_acc: 0.9985
+Epoch 11/140
+84/84 [==============================] - 0s 6ms/step - loss: 6.3253e-08 - acc: 1.0000 - val_loss: 0.0133 - val_acc: 0.9985
+Epoch 12/140
+76/84 [==========================>...] - ETA: 0s - loss: 5.0627e-05 - acc: 1.0000INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_191455-v1bf7iti/files/model-best/assets
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 2 of 2). These functions will not be directly callable after loading.
+INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_191455-v1bf7iti/files/model-best/assets
+wandb: Adding directory to artifact (/home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_191455-v1bf7iti/files/model-best)... Done. 0.0s
+84/84 [==============================] - 1s 13ms/step - loss: 4.6011e-05 - acc: 1.0000 - val_loss: 0.0130 - val_acc: 0.9985
+Epoch 13/140
+84/84 [==============================] - 0s 4ms/step - loss: 1.5644e-06 - acc: 1.0000 - val_loss: 0.0132 - val_acc: 0.9985
+Epoch 14/140
+80/84 [===========================>..] - ETA: 0s - loss: 4.2375e-09 - acc: 1.0000INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_191455-v1bf7iti/files/model-best/assets
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 2 of 2). These functions will not be directly callable after loading.
+INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_191455-v1bf7iti/files/model-best/assets
+wandb: Adding directory to artifact (/home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_191455-v1bf7iti/files/model-best)... Done. 0.0s
+84/84 [==============================] - 1s 12ms/step - loss: 4.0538e-09 - acc: 1.0000 - val_loss: 0.0130 - val_acc: 0.9985
+Epoch 15/140
+72/84 [========================>.....] - ETA: 0s - loss: 8.6406e-09 - acc: 1.0000INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_191455-v1bf7iti/files/model-best/assets
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 2 of 2). These functions will not be directly callable after loading.
+INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_191455-v1bf7iti/files/model-best/assets
+wandb: Adding directory to artifact (/home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_191455-v1bf7iti/files/model-best)... Done. 0.0s
+Epoch 15: saving model to /home/sghyseli/cnn_trainer/cnn_parking_numbers/weights/epoch_15.h5
+84/84 [==============================] - 1s 15ms/step - loss: 7.7958e-09 - acc: 1.0000 - val_loss: 0.0128 - val_acc: 0.9985
+Epoch 16/140
+84/84 [==============================] - 0s 5ms/step - loss: 2.1650e-08 - acc: 1.0000 - val_loss: 0.0129 - val_acc: 0.9985
+Epoch 17/140
+84/84 [==============================] - 0s 5ms/step - loss: 1.8086e-08 - acc: 1.0000 - val_loss: 0.0130 - val_acc: 0.9985
+Epoch 18/140
+84/84 [==============================] - 0s 4ms/step - loss: 2.6283e-09 - acc: 1.0000 - val_loss: 0.0131 - val_acc: 0.9985
+Epoch 19/140
+84/84 [==============================] - 0s 4ms/step - loss: 8.2858e-09 - acc: 1.0000 - val_loss: 0.0131 - val_acc: 0.9985
+Epoch 20/140
+81/84 [===========================>..] - ETA: 0s - loss: 2.1156e-09 - acc: 1.0000
+Epoch 20: saving model to /home/sghyseli/cnn_trainer/cnn_parking_numbers/weights/epoch_20.h5
+84/84 [==============================] - 0s 4ms/step - loss: 2.0492e-09 - acc: 1.0000 - val_loss: 0.0130 - val_acc: 0.9985
+Epoch 21/140
+83/84 [============================>.] - ETA: 0s - loss: 5.2471e-06 - acc: 1.0000INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_191455-v1bf7iti/files/model-best/assets
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 2 of 2). These functions will not be directly callable after loading.
+INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_191455-v1bf7iti/files/model-best/assets
+wandb: Adding directory to artifact (/home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_191455-v1bf7iti/files/model-best)... Done. 0.0s
+84/84 [==============================] - 1s 14ms/step - loss: 5.2079e-06 - acc: 1.0000 - val_loss: 0.0127 - val_acc: 0.9985
+Epoch 22/140
+82/84 [============================>.] - ETA: 0s - loss: 1.6900e-08 - acc: 1.0000INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_191455-v1bf7iti/files/model-best/assets
+84/84 [==============================] - 1s 12ms/step - loss: 1.6839e-08 - acc: 1.0000 - val_loss: 0.0125 - val_acc: 0.9985
+Epoch 23/140
+84/84 [==============================] - 0s 4ms/step - loss: 5.1716e-08 - acc: 1.0000 - val_loss: 0.0131 - val_acc: 0.9985
+Epoch 24/140
+84/84 [==============================] - 0s 4ms/step - loss: 5.0784e-09 - acc: 1.0000 - val_loss: 0.0132 - val_acc: 0.9985
+Epoch 25/140
+80/84 [===========================>..] - ETA: 0s - loss: 4.2576e-07 - acc: 1.0000
+Epoch 25: saving model to /home/sghyseli/cnn_trainer/cnn_parking_numbers/weights/epoch_25.h5
+84/84 [==============================] - 0s 4ms/step - loss: 4.0730e-07 - acc: 1.0000 - val_loss: 0.0134 - val_acc: 0.9985
+Epoch 26/140
+84/84 [==============================] - 0s 5ms/step - loss: 9.5015e-08 - acc: 1.0000 - val_loss: 0.0134 - val_acc: 0.9985
+Epoch 27/140
+84/84 [==============================] - 0s 4ms/step - loss: 3.6394e-08 - acc: 1.0000 - val_loss: 0.0138 - val_acc: 0.9985
+Epoch 28/140
+84/84 [==============================] - 0s 4ms/step - loss: 7.1760e-07 - acc: 1.0000 - val_loss: 0.0138 - val_acc: 0.9985
+Epoch 29/140
+84/84 [==============================] - 0s 4ms/step - loss: 2.9222e-08 - acc: 1.0000 - val_loss: 0.0136 - val_acc: 0.9985
+Epoch 30/140
+70/84 [========================>.....] - ETA: 0s - loss: 2.6177e-07 - acc: 1.0000
+Epoch 30: saving model to /home/sghyseli/cnn_trainer/cnn_parking_numbers/weights/epoch_30.h5
+84/84 [==============================] - 0s 4ms/step - loss: 2.1332e-06 - acc: 1.0000 - val_loss: 0.0137 - val_acc: 0.9985
+Epoch 31/140
+84/84 [==============================] - 0s 4ms/step - loss: 4.5748e-08 - acc: 1.0000 - val_loss: 0.0132 - val_acc: 0.9985
+Epoch 32/140
+84/84 [==============================] - 0s 4ms/step - loss: 9.0561e-06 - acc: 1.0000 - val_loss: 0.0131 - val_acc: 0.9985
+Epoch 33/140
+84/84 [==============================] - 0s 5ms/step - loss: 4.4548e-10 - acc: 1.0000 - val_loss: 0.0131 - val_acc: 0.9985
+Epoch 34/140
+84/84 [==============================] - 0s 4ms/step - loss: 4.8111e-09 - acc: 1.0000 - val_loss: 0.0133 - val_acc: 0.9985
+Epoch 35/140
+76/84 [==========================>...] - ETA: 0s - loss: 3.5340e-08 - acc: 1.0000
+Epoch 35: saving model to /home/sghyseli/cnn_trainer/cnn_parking_numbers/weights/epoch_35.h5
+84/84 [==============================] - 0s 5ms/step - loss: 3.2118e-08 - acc: 1.0000 - val_loss: 0.0134 - val_acc: 0.9985
+Epoch 36/140
+84/84 [==============================] - 0s 4ms/step - loss: 4.9002e-09 - acc: 1.0000 - val_loss: 0.0135 - val_acc: 0.9985
+Epoch 37/140
+84/84 [==============================] - 0s 5ms/step - loss: 4.0339e-07 - acc: 1.0000 - val_loss: 0.0132 - val_acc: 0.9985
+Epoch 38/140
+84/84 [==============================] - 0s 4ms/step - loss: 4.1784e-08 - acc: 1.0000 - val_loss: 0.0133 - val_acc: 0.9985
+Epoch 39/140
+84/84 [==============================] - 0s 4ms/step - loss: 2.3432e-08 - acc: 1.0000 - val_loss: 0.0135 - val_acc: 0.9985
+Epoch 40/140
+76/84 [==========================>...] - ETA: 0s - loss: 3.1517e-08 - acc: 1.0000
+Epoch 40: saving model to /home/sghyseli/cnn_trainer/cnn_parking_numbers/weights/epoch_40.h5
+84/84 [==============================] - 0s 5ms/step - loss: 2.8777e-08 - acc: 1.0000 - val_loss: 0.0136 - val_acc: 0.9985
+Epoch 41/140
+84/84 [==============================] - 0s 4ms/step - loss: 6.0126e-07 - acc: 1.0000 - val_loss: 0.0134 - val_acc: 0.9985
+Epoch 42/140
+84/84 [==============================] - 0s 4ms/step - loss: 3.0156e-07 - acc: 1.0000 - val_loss: 0.0138 - val_acc: 0.9985
+Epoch 43/140
+84/84 [==============================] - 0s 4ms/step - loss: 8.0007e-07 - acc: 1.0000 - val_loss: 0.0153 - val_acc: 0.9985
+Epoch 44/140
+84/84 [==============================] - 0s 4ms/step - loss: 1.2811e-05 - acc: 1.0000 - val_loss: 0.0134 - val_acc: 0.9985
+Epoch 45/140
+83/84 [============================>.] - ETA: 0s - loss: 2.8814e-08 - acc: 1.0000
+Epoch 45: saving model to /home/sghyseli/cnn_trainer/cnn_parking_numbers/weights/epoch_45.h5
+84/84 [==============================] - 0s 4ms/step - loss: 2.8599e-08 - acc: 1.0000 - val_loss: 0.0142 - val_acc: 0.9985
+Epoch 46/140
+84/84 [==============================] - 0s 4ms/step - loss: 1.1582e-09 - acc: 1.0000 - val_loss: 0.0142 - val_acc: 0.9985
+Epoch 47/140
+84/84 [==============================] - 0s 4ms/step - loss: 8.7793e-08 - acc: 1.0000 - val_loss: 0.0153 - val_acc: 0.9985
+Epoch 48/140
+84/84 [==============================] - 0s 4ms/step - loss: 8.0007e-07 - acc: 1.0000 - val_loss: 0.0153 - val_acc: 0.9985
+Epoch 49/140
+84/84 [==============================] - 0s 4ms/step - loss: 1.7634e-06 - acc: 1.0000 - val_loss: 0.0153 - val_acc: 0.9985
+Epoch 50/140
+83/84 [============================>.] - ETA: 0s - loss: 7.3693e-08 - acc: 1.0000
+Epoch 50: saving model to /home/sghyseli/cnn_trainer/cnn_parking_numbers/weights/epoch_50.h5
+84/84 [==============================] - 0s 4ms/step - loss: 7.3142e-08 - acc: 1.0000 - val_loss: 0.0149 - val_acc: 0.9985
+Epoch 51/140
+84/84 [==============================] - 0s 4ms/step - loss: 1.2830e-08 - acc: 1.0000 - val_loss: 0.0147 - val_acc: 0.9985
+Epoch 52/140
+84/84 [==============================] - 0s 5ms/step - loss: 3.5638e-09 - acc: 1.0000 - val_loss: 0.0148 - val_acc: 0.9985
+Epoch 53/140
+84/84 [==============================] - 0s 4ms/step - loss: 1.7846e-07 - acc: 1.0000 - val_loss: 0.0153 - val_acc: 0.9985
+Epoch 54/140
+71/84 [========================>.....] - ETA: 0s - loss: 2.7808e-09 - acc: 1.0000
+79/84 [===========================>..] - ETA: 0s - loss: 5.6587e-09 - acc: 1.00000000 - val_loss: 0.0153 - val_acc: 0.9985
+Epoch 55: saving model to /home/sghyseli/cnn_trainer/cnn_parking_numbers/weights/epoch_55.h5
+84/84 [==============================] - 0s 5ms/step - loss: 5.3457e-09 - acc: 1.0000 - val_loss: 0.0156 - val_acc: 0.9985
+Epoch 56/140
+84/84 [==============================] - 0s 5ms/step - loss: 2.2619e-06 - acc: 1.0000 - val_loss: 0.0156 - val_acc: 0.9985
+Epoch 57/140
+84/84 [==============================] - 0s 5ms/step - loss: 9.0876e-09 - acc: 1.0000 - val_loss: 0.0156 - val_acc: 0.9985
+Epoch 58/140
+84/84 [==============================] - 0s 4ms/step - loss: 5.1605e-07 - acc: 1.0000 - val_loss: 0.0165 - val_acc: 0.9985
+Epoch 59/140
+84/84 [==============================] - 0s 4ms/step - loss: 1.1805e-08 - acc: 1.0000 - val_loss: 0.0164 - val_acc: 0.9985
+Epoch 60/140
+ 1/84 [..............................] - ETA: 0s - loss: 0.0000e+00 - acc: 1.0000
+84/84 [==============================] - 0s 5ms/step - loss: 4.7752e-08 - acc: 1.0000 - val_loss: 0.0167 - val_acc: 0.9985
+Epoch 61/140
+84/84 [==============================] - 0s 6ms/step - loss: 2.2143e-07 - acc: 1.0000 - val_loss: 0.0155 - val_acc: 0.9985
+Epoch 62/140
+84/84 [==============================] - 0s 5ms/step - loss: 1.3586e-07 - acc: 1.0000 - val_loss: 0.0166 - val_acc: 0.9985
+Epoch 63/140
+84/84 [==============================] - 0s 5ms/step - loss: 1.8886e-04 - acc: 1.0000 - val_loss: 0.0166 - val_acc: 0.9985
+Epoch 64/140
+64/84 [=====================>........] - ETA: 0s - loss: 1.4785e-08 - acc: 1.0000
+84/84 [==============================] - 0s 5ms/step - loss: 7.7067e-09 - acc: 1.0000 - val_loss: 0.0163 - val_acc: 0.9985
+Epoch 67/140
+84/84 [==============================] - 0s 4ms/step - loss: 3.6574e-06 - acc: 1.0000 - val_loss: 0.0159 - val_acc: 0.9985
+Epoch 68/140
+84/84 [==============================] - 0s 4ms/step - loss: 4.2946e-07 - acc: 1.0000 - val_loss: 0.0156 - val_acc: 0.9985
+Epoch 69/140
+84/84 [==============================] - 0s 4ms/step - loss: 1.3364e-09 - acc: 1.0000 - val_loss: 0.0156 - val_acc: 0.9985
+Epoch 70/140
+ 1/84 [..............................] - ETA: 0s - loss: 3.7253e-09 - acc: 1.0000
+84/84 [==============================] - 0s 5ms/step - loss: 4.3165e-07 - acc: 1.0000 - val_loss: 0.0152 - val_acc: 0.9985
+Epoch 73/140
+84/84 [==============================] - 0s 5ms/step - loss: 3.1852e-05 - acc: 1.0000 - val_loss: 0.0153 - val_acc: 0.9985
+Epoch 74/140
+84/84 [==============================] - 0s 4ms/step - loss: 2.2719e-09 - acc: 1.0000 - val_loss: 0.0153 - val_acc: 0.9985
+Epoch 75/140
+14/84 [====>.........................] - ETA: 0s - loss: 1.0644e-09 - acc: 1.0000
+84/84 [==============================] - 0s 4ms/step - loss: 8.4498e-08 - acc: 1.0000 - val_loss: 0.0152 - val_acc: 0.9985
+Epoch 79/140
+84/84 [==============================] - 0s 5ms/step - loss: 1.6750e-08 - acc: 1.0000 - val_loss: 0.0151 - val_acc: 0.9985
+Epoch 80/140
+55/84 [==================>...........] - ETA: 0s - loss: 3.0480e-09 - acc: 1.0000
+84/84 [==============================] - 0s 5ms/step - loss: 1.3631e-08 - acc: 1.0000 - val_loss: 0.0140 - val_acc: 0.9985
+Epoch 85/140
+66/84 [======================>.......] - ETA: 0s - loss: 1.0611e-08 - acc: 1.0000
+80/84 [===========================>..] - ETA: 0s - loss: 5.2905e-06 - acc: 1.00000000 - val_loss: 0.0140 - val_acc: 0.9985
+Epoch 90: saving model to /home/sghyseli/cnn_trainer/cnn_parking_numbers/weights/epoch_90.h5
+84/84 [==============================] - 0s 4ms/step - loss: 5.0613e-06 - acc: 1.0000 - val_loss: 0.0149 - val_acc: 0.9985
+Epoch 91/140
+14/84 [====>.........................] - ETA: 0s - loss: 1.8626e-09 - acc: 1.0000
+84/84 [==============================] - 0s 5ms/step - loss: 1.9021e-08 - acc: 1.0000 - val_loss: 0.0156 - val_acc: 0.9985
+Epoch 96/140
+25/84 [=======>......................] - ETA: 0s - loss: 7.7486e-09 - acc: 1.0000
+23/84 [=======>......................] - ETA: 0s - loss: 6.6730e-08 - acc: 1.00000000 - val_loss: 0.0156 - val_acc: 0.9985
+84/84 [==============================] - 0s 5ms/step - loss: 2.4412e-08 - acc: 1.0000 - val_loss: 0.0154 - val_acc: 0.9985
+84/84 [==============================] - 0s 5ms/step - loss: 1.0628e-07 - acc: 1.0000 - val_loss: 0.0160 - val_acc: 0.9985
+84/84 [==============================] - 0s 5ms/step - loss: 2.6639e-08 - acc: 1.0000 - val_loss: 0.0157 - val_acc: 0.9985
+84/84 [==============================] - 0s 5ms/step - loss: 1.0553e-06 - acc: 1.0000 - val_loss: 0.0155 - val_acc: 0.9985
+84/84 [==============================] - ETA: 0s - loss: 8.4640e-10 - acc: 1.00000000 - val_loss: 0.0155 - val_acc: 0.9985
+84/84 [==============================] - 0s 4ms/step - loss: 1.1493e-08 - acc: 1.0000 - val_loss: 0.0146 - val_acc: 0.9985
+84/84 [==============================] - 0s 4ms/step - loss: 3.3543e-08 - acc: 1.0000 - val_loss: 0.0153 - val_acc: 0.9985
+84/84 [==============================] - 0s 4ms/step - loss: 3.3543e-08 - acc: 1.0000 - val_loss: 0.0153 - val_acc: 0.9985
+84/84 [==============================] - 0s 4ms/step - loss: 3.3543e-08 - acc: 1.0000 - val_loss: 0.0153 - val_acc: 0.9985

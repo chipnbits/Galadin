@@ -1,0 +1,124 @@
+{
+    "os": "Linux-5.15.0-60-generic-x86_64-with-glibc2.29",
+    "python": "3.8.10",
+    "heartbeatAt": "2023-04-07T21:42:21.710146",
+    "startedAt": "2023-04-07T21:42:21.089860",
+    "docker": null,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "https://github.com/hkimhi/gadalin.git",
+        "commit": "5bf6ef87dd53de67d1ddf06b48221902fc8c5090"
+    },
+    "email": "sghyselincks@gmail.com",
+    "root": "/home/sghyseli/gadalin",
+    "host": "sghyseli-ROG-Flow-X13-GV301QE-GV301QE",
+    "username": "sghyseli",
+    "executable": "/bin/python3",
+    "cpu_count": 8,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 3501.9118125000005,
+        "min": 1200.0,
+        "max": 3300.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3379.201,
+            "min": 1200.0,
+            "max": 3300.0
+        },
+        {
+            "current": 2703.619,
+            "min": 1200.0,
+            "max": 3300.0
+        },
+        {
+            "current": 4390.521,
+            "min": 1200.0,
+            "max": 3300.0
+        },
+        {
+            "current": 2461.345,
+            "min": 1200.0,
+            "max": 3300.0
+        },
+        {
+            "current": 3682.369,
+            "min": 1200.0,
+            "max": 3300.0
+        },
+        {
+            "current": 2626.782,
+            "min": 1200.0,
+            "max": 3300.0
+        },
+        {
+            "current": 2376.662,
+            "min": 1200.0,
+            "max": 3300.0
+        },
+        {
+            "current": 2740.188,
+            "min": 1200.0,
+            "max": 3300.0
+        },
+        {
+            "current": 2014.195,
+            "min": 1200.0,
+            "max": 3300.0
+        },
+        {
+            "current": 1931.058,
+            "min": 1200.0,
+            "max": 3300.0
+        },
+        {
+            "current": 2302.306,
+            "min": 1200.0,
+            "max": 3300.0
+        },
+        {
+            "current": 1656.65,
+            "min": 1200.0,
+            "max": 3300.0
+        },
+        {
+            "current": 1620.781,
+            "min": 1200.0,
+            "max": 3300.0
+        },
+        {
+            "current": 1216.945,
+            "min": 1200.0,
+            "max": 3300.0
+        },
+        {
+            "current": 1771.044,
+            "min": 1200.0,
+            "max": 3300.0
+        },
+        {
+            "current": 1312.369,
+            "min": 1200.0,
+            "max": 3300.0
+        }
+    ],
+    "disk": {
+        "total": 97.87200164794922,
+        "used": 82.2066650390625
+    },
+    "gpu": "NVIDIA GeForce RTX 3050 Ti Laptop GPU",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 3050 Ti Laptop GPU",
+            "memory_total": 4294967296
+        }
+    ],
+    "memory": {
+        "total": 15.038150787353516
+    }
+}

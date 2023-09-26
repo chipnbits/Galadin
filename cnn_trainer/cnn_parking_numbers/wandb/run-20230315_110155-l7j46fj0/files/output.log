@@ -1,0 +1,285 @@
+Epoch 1/80
+40/45 [=========================>....] - ETA: 0s - loss: 2.0348 - acc: 0.1996
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 3 of 3). These functions will not be directly callable after loading.
+INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_110155-l7j46fj0/files/model-best/assets
+
+40/45 [=========================>....] - ETA: 0s - loss: 2.0348 - acc: 0.1996INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_110155-l7j46fj0/files/model-best/assets
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 3 of 3). These functions will not be directly callable after loading.
+INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_110155-l7j46fj0/files/model-best/assets
+wandb: Adding directory to artifact (/home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_110155-l7j46fj0/files/model-best)... Done. 0.0s
+45/45 [==============================] - 2s 32ms/step - loss: 2.0323 - acc: 0.2007 - val_loss: 1.9747 - val_acc: 0.2783
+Epoch 2/80
+38/45 [========================>.....] - ETA: 0s - loss: 1.9372 - acc: 0.2566INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_110155-l7j46fj0/files/model-best/assets
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 3 of 3). These functions will not be directly callable after loading.
+INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_110155-l7j46fj0/files/model-best/assets
+wandb: Adding directory to artifact (/home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_110155-l7j46fj0/files/model-best)... Done. 0.0s
+45/45 [==============================] - 1s 26ms/step - loss: 1.9299 - acc: 0.2623 - val_loss: 1.8343 - val_acc: 0.3839
+Epoch 3/80
+43/45 [===========================>..] - ETA: 0s - loss: 1.7684 - acc: 0.3527INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_110155-l7j46fj0/files/model-best/assets
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 3 of 3). These functions will not be directly callable after loading.
+INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_110155-l7j46fj0/files/model-best/assets
+wandb: Adding directory to artifact (/home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_110155-l7j46fj0/files/model-best)... Done. 0.0s
+45/45 [==============================] - 1s 28ms/step - loss: 1.7668 - acc: 0.3543 - val_loss: 1.5897 - val_acc: 0.6295
+Epoch 4/80
+43/45 [===========================>..] - ETA: 0s - loss: 1.5134 - acc: 0.5647INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_110155-l7j46fj0/files/model-best/assets
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 3 of 3). These functions will not be directly callable after loading.
+INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_110155-l7j46fj0/files/model-best/assets
+wandb: Adding directory to artifact (/home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_110155-l7j46fj0/files/model-best)... Done. 0.0s
+45/45 [==============================] - 1s 28ms/step - loss: 1.5067 - acc: 0.5684 - val_loss: 1.2635 - val_acc: 0.7277
+Epoch 5/80
+38/45 [========================>.....] - ETA: 0s - loss: 1.2214 - acc: 0.7127INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_110155-l7j46fj0/files/model-best/assets
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 3 of 3). These functions will not be directly callable after loading.
+INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_110155-l7j46fj0/files/model-best/assets
+wandb: Adding directory to artifact (/home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_110155-l7j46fj0/files/model-best)... Done. 0.0s
+45/45 [==============================] - 1s 29ms/step - loss: 1.2051 - acc: 0.7093 - val_loss: 0.9215 - val_acc: 0.8095
+Epoch 6/80
+40/45 [=========================>....] - ETA: 0s - loss: 0.8985 - acc: 0.7975INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_110155-l7j46fj0/files/model-best/assets
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 3 of 3). These functions will not be directly callable after loading.
+INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_110155-l7j46fj0/files/model-best/assets
+wandb: Adding directory to artifact (/home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_110155-l7j46fj0/files/model-best)... Done. 0.0s
+45/45 [==============================] - 1s 33ms/step - loss: 0.8798 - acc: 0.8049 - val_loss: 0.5742 - val_acc: 0.9167
+Epoch 7/80
+43/45 [===========================>..] - ETA: 0s - loss: 0.5727 - acc: 0.9004INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_110155-l7j46fj0/files/model-best/assets
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 3 of 3). These functions will not be directly callable after loading.
+INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_110155-l7j46fj0/files/model-best/assets
+wandb: Adding directory to artifact (/home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_110155-l7j46fj0/files/model-best)... Done. 0.0s
+45/45 [==============================] - 1s 27ms/step - loss: 0.5669 - acc: 0.9021 - val_loss: 0.3169 - val_acc: 0.9940
+Epoch 8/80
+38/45 [========================>.....] - ETA: 0s - loss: 0.3655 - acc: 0.9592INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_110155-l7j46fj0/files/model-best/assets
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 3 of 3). These functions will not be directly callable after loading.
+INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_110155-l7j46fj0/files/model-best/assets
+wandb: Adding directory to artifact (/home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_110155-l7j46fj0/files/model-best)... Done. 0.0s
+45/45 [==============================] - 1s 28ms/step - loss: 0.3533 - acc: 0.9630 - val_loss: 0.1610 - val_acc: 0.9970
+Epoch 9/80
+43/45 [===========================>..] - ETA: 0s - loss: 0.2113 - acc: 0.9822INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_110155-l7j46fj0/files/model-best/assets
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 3 of 3). These functions will not be directly callable after loading.
+INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_110155-l7j46fj0/files/model-best/assets
+wandb: Adding directory to artifact (/home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_110155-l7j46fj0/files/model-best)... Done. 0.0s
+45/45 [==============================] - 1s 26ms/step - loss: 0.2101 - acc: 0.9821 - val_loss: 0.0790 - val_acc: 0.9970
+Epoch 10/80
+38/45 [========================>.....] - ETA: 0s - loss: 0.1293 - acc: 0.9904INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_110155-l7j46fj0/files/model-best/assets
+45/45 [==============================] - 2s 37ms/step - loss: 0.1266 - acc: 0.9907 - val_loss: 0.0397 - val_acc: 0.9985
+Epoch 11/80
+38/45 [========================>.....] - ETA: 0s - loss: 0.0800 - acc: 0.9930INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_110155-l7j46fj0/files/model-best/assets
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 3 of 3). These functions will not be directly callable after loading.
+INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_110155-l7j46fj0/files/model-best/assets
+wandb: Adding directory to artifact (/home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_110155-l7j46fj0/files/model-best)... Done. 0.0s
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 3 of 3). These functions will not be directly callable after loading.
+INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_110155-l7j46fj0/files/model-best/assets
+wandb: Adding directory to artifact (/home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_110155-l7j46fj0/files/model-best)... Done. 0.0s
+45/45 [==============================] - 2s 38ms/step - loss: 0.0776 - acc: 0.9929 - val_loss: 0.0230 - val_acc: 0.9970
+Epoch 12/80
+39/45 [=========================>....] - ETA: 0s - loss: 0.0539 - acc: 0.9944INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_110155-l7j46fj0/files/model-best/assets
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 3 of 3). These functions will not be directly callable after loading.
+INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_110155-l7j46fj0/files/model-best/assets
+wandb: Adding directory to artifact (/home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_110155-l7j46fj0/files/model-best)... Done. 0.0s
+45/45 [==============================] - 2s 39ms/step - loss: 0.0520 - acc: 0.9948 - val_loss: 0.0145 - val_acc: 0.9985
+Epoch 13/80
+40/45 [=========================>....] - ETA: 0s - loss: 0.0397 - acc: 0.9925INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_110155-l7j46fj0/files/model-best/assets
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 3 of 3). These functions will not be directly callable after loading.
+INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_110155-l7j46fj0/files/model-best/assets
+wandb: Adding directory to artifact (/home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_110155-l7j46fj0/files/model-best)... Done. 0.0s
+45/45 [==============================] - 1s 26ms/step - loss: 0.0388 - acc: 0.9925 - val_loss: 0.0117 - val_acc: 0.9970
+Epoch 14/80
+39/45 [=========================>....] - ETA: 0s - loss: 0.0253 - acc: 0.9987INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_110155-l7j46fj0/files/model-best/assets
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 3 of 3). These functions will not be directly callable after loading.
+INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_110155-l7j46fj0/files/model-best/assets
+wandb: Adding directory to artifact (/home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_110155-l7j46fj0/files/model-best)... Done. 0.0s
+45/45 [==============================] - 1s 27ms/step - loss: 0.0240 - acc: 0.9985 - val_loss: 0.0088 - val_acc: 0.9970
+Epoch 15/80
+40/45 [=========================>....] - ETA: 0s - loss: 0.0209 - acc: 0.9983INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_110155-l7j46fj0/files/model-best/assets
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 3 of 3). These functions will not be directly callable after loading.
+INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_110155-l7j46fj0/files/model-best/assets
+wandb: Adding directory to artifact (/home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_110155-l7j46fj0/files/model-best)... Done. 0.0s
+45/45 [==============================] - 1s 26ms/step - loss: 0.0196 - acc: 0.9985 - val_loss: 0.0080 - val_acc: 0.9985
+Epoch 16/80
+45/45 [==============================] - ETA: 0s - loss: 0.0179 - acc: 0.9981INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_110155-l7j46fj0/files/model-best/assets
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 3 of 3). These functions will not be directly callable after loading.
+INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_110155-l7j46fj0/files/model-best/assets
+wandb: Adding directory to artifact (/home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_110155-l7j46fj0/files/model-best)... Done. 0.0s
+45/45 [==============================] - 1s 26ms/step - loss: 0.0179 - acc: 0.9981 - val_loss: 0.0070 - val_acc: 0.9985
+Epoch 17/80
+45/45 [==============================] - ETA: 0s - loss: 0.0180 - acc: 0.9974INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_110155-l7j46fj0/files/model-best/assets
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 3 of 3). These functions will not be directly callable after loading.
+INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_110155-l7j46fj0/files/model-best/assets
+wandb: Adding directory to artifact (/home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_110155-l7j46fj0/files/model-best)... Done. 0.0s
+45/45 [==============================] - 6s 145ms/step - loss: 0.0180 - acc: 0.9974 - val_loss: 0.0064 - val_acc: 0.9970
+Epoch 18/80
+42/45 [===========================>..] - ETA: 0s - loss: 0.0138 - acc: 0.9976INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_110155-l7j46fj0/files/model-best/assets
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 3 of 3). These functions will not be directly callable after loading.
+INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_110155-l7j46fj0/files/model-best/assets
+wandb: Adding directory to artifact (/home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_110155-l7j46fj0/files/model-best)... Done. 0.0s
+45/45 [==============================] - 1s 27ms/step - loss: 0.0134 - acc: 0.9978 - val_loss: 0.0051 - val_acc: 0.9985
+Epoch 19/80
+38/45 [========================>.....] - ETA: 0s - loss: 0.0114 - acc: 0.9978INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_110155-l7j46fj0/files/model-best/assets
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 3 of 3). These functions will not be directly callable after loading.
+INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_110155-l7j46fj0/files/model-best/assets
+wandb: Adding directory to artifact (/home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_110155-l7j46fj0/files/model-best)... Done. 0.0s
+45/45 [==============================] - 1s 32ms/step - loss: 0.0106 - acc: 0.9981 - val_loss: 0.0049 - val_acc: 0.9985
+Epoch 20/80
+45/45 [==============================] - 0s 8ms/step - loss: 0.0124 - acc: 0.9985 - val_loss: 0.0058 - val_acc: 0.9985
+Epoch 21/80
+45/45 [==============================] - 0s 8ms/step - loss: 0.0092 - acc: 0.9989 - val_loss: 0.0055 - val_acc: 0.9985
+Epoch 22/80
+45/45 [==============================] - 0s 9ms/step - loss: 0.0087 - acc: 0.9989 - val_loss: 0.0053 - val_acc: 0.9985
+Epoch 23/80
+45/45 [==============================] - 0s 9ms/step - loss: 0.0075 - acc: 0.9989 - val_loss: 0.0056 - val_acc: 0.9985
+Epoch 24/80
+45/45 [==============================] - 0s 8ms/step - loss: 0.0116 - acc: 0.9978 - val_loss: 0.0061 - val_acc: 0.9985
+Epoch 25/80
+45/45 [==============================] - 0s 8ms/step - loss: 0.0069 - acc: 0.9989 - val_loss: 0.0052 - val_acc: 0.9985
+Epoch 26/80
+42/45 [===========================>..] - ETA: 0s - loss: 0.0075 - acc: 0.9980INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_110155-l7j46fj0/files/model-best/assets
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 3 of 3). These functions will not be directly callable after loading.
+INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_110155-l7j46fj0/files/model-best/assets
+wandb: Adding directory to artifact (/home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_110155-l7j46fj0/files/model-best)... Done. 0.0s
+45/45 [==============================] - 1s 26ms/step - loss: 0.0073 - acc: 0.9981 - val_loss: 0.0044 - val_acc: 0.9985
+Epoch 27/80
+45/45 [==============================] - 0s 11ms/step - loss: 0.0067 - acc: 0.9989 - val_loss: 0.0070 - val_acc: 0.9970
+Epoch 28/80
+38/45 [========================>.....] - ETA: 0s - loss: 0.0120 - acc: 0.9978INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_110155-l7j46fj0/files/model-best/assets
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 3 of 3). These functions will not be directly callable after loading.
+INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_110155-l7j46fj0/files/model-best/assets
+wandb: Adding directory to artifact (/home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_110155-l7j46fj0/files/model-best)... Done. 0.0s
+45/45 [==============================] - 1s 24ms/step - loss: 0.0105 - acc: 0.9981 - val_loss: 0.0041 - val_acc: 0.9985
+Epoch 29/80
+45/45 [==============================] - 0s 9ms/step - loss: 0.0076 - acc: 0.9985 - val_loss: 0.0053 - val_acc: 0.9985
+Epoch 30/80
+45/45 [==============================] - 0s 8ms/step - loss: 0.0058 - acc: 0.9989 - val_loss: 0.0043 - val_acc: 0.9985
+Epoch 31/80
+45/45 [==============================] - 0s 8ms/step - loss: 0.0054 - acc: 0.9989 - val_loss: 0.0057 - val_acc: 0.9985
+Epoch 32/80
+42/45 [===========================>..] - ETA: 0s - loss: 0.0037 - acc: 0.9996INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_110155-l7j46fj0/files/model-best/assets
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 3 of 3). These functions will not be directly callable after loading.
+INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_110155-l7j46fj0/files/model-best/assets
+wandb: Adding directory to artifact (/home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_110155-l7j46fj0/files/model-best)... Done. 0.0s
+45/45 [==============================] - 1s 26ms/step - loss: 0.0035 - acc: 0.9996 - val_loss: 0.0041 - val_acc: 0.9985
+Epoch 33/80
+43/45 [===========================>..] - ETA: 0s - loss: 0.0068 - acc: 0.9981INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_110155-l7j46fj0/files/model-best/assets
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 3 of 3). These functions will not be directly callable after loading.
+INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_110155-l7j46fj0/files/model-best/assets
+wandb: Adding directory to artifact (/home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_110155-l7j46fj0/files/model-best)... Done. 0.0s
+45/45 [==============================] - 1s 26ms/step - loss: 0.0066 - acc: 0.9981 - val_loss: 0.0023 - val_acc: 0.9985
+Epoch 34/80
+45/45 [==============================] - 0s 8ms/step - loss: 0.0059 - acc: 0.9989 - val_loss: 0.0036 - val_acc: 0.9985
+Epoch 35/80
+45/45 [==============================] - 0s 8ms/step - loss: 0.0028 - acc: 0.9996 - val_loss: 0.0069 - val_acc: 0.9970
+Epoch 36/80
+45/45 [==============================] - 0s 8ms/step - loss: 0.0039 - acc: 0.9993 - val_loss: 0.0052 - val_acc: 0.9985
+Epoch 37/80
+45/45 [==============================] - 0s 8ms/step - loss: 0.0039 - acc: 0.9993 - val_loss: 0.0025 - val_acc: 0.9985
+Epoch 38/80
+45/45 [==============================] - 0s 8ms/step - loss: 0.0052 - acc: 0.9993 - val_loss: 0.0036 - val_acc: 0.9985
+Epoch 39/80
+45/45 [==============================] - 0s 8ms/step - loss: 0.0022 - acc: 0.9993 - val_loss: 0.0042 - val_acc: 0.9985
+Epoch 40/80
+45/45 [==============================] - 0s 8ms/step - loss: 0.0024 - acc: 0.9989 - val_loss: 0.0025 - val_acc: 0.9985
+Epoch 41/80
+45/45 [==============================] - 0s 8ms/step - loss: 0.0028 - acc: 0.9996 - val_loss: 0.0029 - val_acc: 0.9985
+Epoch 42/80
+45/45 [==============================] - 0s 8ms/step - loss: 0.0038 - acc: 0.9989 - val_loss: 0.0037 - val_acc: 0.9985
+Epoch 43/80
+45/45 [==============================] - 0s 8ms/step - loss: 9.1339e-04 - acc: 1.0000 - val_loss: 0.0029 - val_acc: 0.9985
+Epoch 44/80
+38/45 [========================>.....] - ETA: 0s - loss: 8.5255e-04 - acc: 1.0000INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_110155-l7j46fj0/files/model-best/assets
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 3 of 3). These functions will not be directly callable after loading.
+INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_110155-l7j46fj0/files/model-best/assets
+wandb: Adding directory to artifact (/home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_110155-l7j46fj0/files/model-best)... Done. 0.0s
+45/45 [==============================] - 2s 46ms/step - loss: 0.0028 - acc: 0.9993 - val_loss: 0.0016 - val_acc: 1.0000
+Epoch 45/80
+45/45 [==============================] - 0s 9ms/step - loss: 0.0030 - acc: 0.9996 - val_loss: 0.0016 - val_acc: 1.0000
+Epoch 46/80
+40/45 [=========================>....] - ETA: 0s - loss: 0.0031 - acc: 0.9992INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_110155-l7j46fj0/files/model-best/assets
+45/45 [==============================] - 1s 26ms/step - loss: 0.0028 - acc: 0.9993 - val_loss: 0.0014 - val_acc: 1.0000
+Epoch 47/80
+45/45 [==============================] - 0s 10ms/step - loss: 0.0014 - acc: 0.9993 - val_loss: 0.0016 - val_acc: 1.0000
+Epoch 48/80
+40/45 [=========================>....] - ETA: 0s - loss: 9.9724e-04 - acc: 0.9996INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_110155-l7j46fj0/files/model-best/assets
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 3 of 3). These functions will not be directly callable after loading.
+INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_110155-l7j46fj0/files/model-best/assets
+wandb: Adding directory to artifact (/home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_110155-l7j46fj0/files/model-best)... Done. 0.0s
+45/45 [==============================] - 1s 33ms/step - loss: 9.1316e-04 - acc: 0.9996 - val_loss: 0.0013 - val_acc: 1.0000
+Epoch 49/80
+45/45 [==============================] - 0s 10ms/step - loss: 0.0016 - acc: 0.9996 - val_loss: 0.0027 - val_acc: 0.9985
+Epoch 50/80
+39/45 [=========================>....] - ETA: 0s - loss: 0.0016 - acc: 0.9991INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_110155-l7j46fj0/files/model-best/assets
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 3 of 3). These functions will not be directly callable after loading.
+INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_110155-l7j46fj0/files/model-best/assets
+wandb: Adding directory to artifact (/home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_110155-l7j46fj0/files/model-best)... Done. 0.0s
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 3 of 3). These functions will not be directly callable after loading.
+INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_110155-l7j46fj0/files/model-best/assets
+wandb: Adding directory to artifact (/home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_110155-l7j46fj0/files/model-best)... Done. 0.0s
+45/45 [==============================] - 1s 26ms/step - loss: 0.0014 - acc: 0.9993 - val_loss: 0.0011 - val_acc: 1.0000
+Epoch 51/80
+45/45 [==============================] - 0s 9ms/step - loss: 0.0011 - acc: 1.0000 - val_loss: 0.0029 - val_acc: 0.9985
+Epoch 52/80
+45/45 [==============================] - 0s 8ms/step - loss: 0.0014 - acc: 0.9996 - val_loss: 0.0016 - val_acc: 1.0000
+Epoch 53/80
+45/45 [==============================] - 0s 8ms/step - loss: 0.0024 - acc: 0.9993 - val_loss: 0.0020 - val_acc: 0.9985
+Epoch 54/80
+43/45 [===========================>..] - ETA: 0s - loss: 0.0012 - acc: 0.9996    INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_110155-l7j46fj0/files/model-best/assets
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 3 of 3). These functions will not be directly callable after loading.
+INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_110155-l7j46fj0/files/model-best/assets
+wandb: Adding directory to artifact (/home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_110155-l7j46fj0/files/model-best)... Done. 0.0s
+45/45 [==============================] - 1s 27ms/step - loss: 0.0011 - acc: 0.9996 - val_loss: 9.6075e-04 - val_acc: 1.0000
+Epoch 55/80
+43/45 [===========================>..] - ETA: 0s - loss: 0.0032 - acc: 0.9988INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_110155-l7j46fj0/files/model-best/assets
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 3 of 3). These functions will not be directly callable after loading.
+INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_110155-l7j46fj0/files/model-best/assets
+wandb: Adding directory to artifact (/home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_110155-l7j46fj0/files/model-best)... Done. 0.0s
+45/45 [==============================] - 1s 26ms/step - loss: 0.0031 - acc: 0.9989 - val_loss: 7.8552e-04 - val_acc: 1.0000
+Epoch 56/80
+45/45 [==============================] - 0s 9ms/step - loss: 8.6599e-04 - acc: 0.9996 - val_loss: 0.0023 - val_acc: 0.9985
+Epoch 57/80
+45/45 [==============================] - 0s 8ms/step - loss: 3.8293e-04 - acc: 1.0000 - val_loss: 0.0016 - val_acc: 0.9985
+Epoch 58/80
+45/45 [==============================] - 0s 9ms/step - loss: 0.0024 - acc: 0.9989 - val_loss: 8.0191e-04 - val_acc: 1.0000
+Epoch 59/80
+45/45 [==============================] - 0s 10ms/step - loss: 7.6966e-04 - acc: 1.0000 - val_loss: 0.0015 - val_acc: 0.9985
+Epoch 60/80
+45/45 [==============================] - 0s 9ms/step - loss: 4.9808e-04 - acc: 1.0000 - val_loss: 0.0019 - val_acc: 0.9985
+Epoch 61/80
+45/45 [==============================] - 0s 8ms/step - loss: 4.7118e-04 - acc: 1.0000 - val_loss: 0.0023 - val_acc: 0.9985
+Epoch 62/80
+45/45 [==============================] - 0s 8ms/step - loss: 0.0012 - acc: 0.9993 - val_loss: 0.0042 - val_acc: 0.9985
+Epoch 63/80
+45/45 [==============================] - 0s 8ms/step - loss: 3.2357e-04 - acc: 1.0000 - val_loss: 0.0011 - val_acc: 1.0000
+Epoch 64/80
+38/45 [========================>.....] - ETA: 0s - loss: 2.0993e-04 - acc: 1.0000INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_110155-l7j46fj0/files/model-best/assets
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 3 of 3). These functions will not be directly callable after loading.
+INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_110155-l7j46fj0/files/model-best/assets
+wandb: Adding directory to artifact (/home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_110155-l7j46fj0/files/model-best)... Done. 0.0s
+45/45 [==============================] - 1s 25ms/step - loss: 1.8976e-04 - acc: 1.0000 - val_loss: 5.1138e-04 - val_acc: 1.0000
+Epoch 65/80
+45/45 [==============================] - 0s 8ms/step - loss: 1.5249e-04 - acc: 1.0000 - val_loss: 0.0014 - val_acc: 0.9985
+Epoch 66/80
+45/45 [==============================] - 0s 8ms/step - loss: 5.2190e-04 - acc: 1.0000 - val_loss: 7.0600e-04 - val_acc: 1.0000
+Epoch 67/80
+45/45 [==============================] - 0s 9ms/step - loss: 3.0286e-04 - acc: 1.0000 - val_loss: 0.0011 - val_acc: 1.0000
+Epoch 68/80
+45/45 [==============================] - 0s 8ms/step - loss: 4.5553e-04 - acc: 1.0000 - val_loss: 0.0015 - val_acc: 1.0000
+Epoch 69/80
+45/45 [==============================] - 0s 8ms/step - loss: 4.1211e-04 - acc: 1.0000 - val_loss: 0.0023 - val_acc: 0.9985
+Epoch 70/80
+45/45 [==============================] - 0s 8ms/step - loss: 5.9089e-04 - acc: 0.9996 - val_loss: 6.2272e-04 - val_acc: 1.0000
+Epoch 71/80
+45/45 [==============================] - 0s 8ms/step - loss: 1.4866e-04 - acc: 1.0000 - val_loss: 6.7730e-04 - val_acc: 1.0000
+Epoch 72/80
+45/45 [==============================] - 0s 8ms/step - loss: 1.5977e-04 - acc: 1.0000 - val_loss: 0.0010 - val_acc: 1.0000
+Epoch 73/80
+39/45 [=========================>....] - ETA: 0s - loss: 3.0328e-04 - acc: 1.0000INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_110155-l7j46fj0/files/model-best/assets
+45/45 [==============================] - 1s 24ms/step - loss: 2.7103e-04 - acc: 1.0000 - val_loss: 2.2154e-04 - val_acc: 1.0000
+Epoch 74/80
+45/45 [==============================] - 0s 8ms/step - loss: 6.2242e-04 - acc: 0.9996 - val_loss: 3.5178e-04 - val_acc: 1.0000
+Epoch 75/80
+45/45 [==============================] - 0s 8ms/step - loss: 9.0804e-05 - acc: 1.0000 - val_loss: 6.7442e-04 - val_acc: 1.0000
+Epoch 76/80
+45/45 [==============================] - 0s 10ms/step - loss: 1.0154e-04 - acc: 1.0000 - val_loss: 8.0709e-04 - val_acc: 1.0000
+Epoch 77/80
+45/45 [==============================] - 0s 8ms/step - loss: 0.0035 - acc: 0.9996 - val_loss: 0.0041 - val_acc: 0.9970
+Epoch 78/80
+45/45 [==============================] - 0s 8ms/step - loss: 1.3260e-04 - acc: 1.0000 - val_loss: 0.0020 - val_acc: 0.9985
+Epoch 79/80
+45/45 [==============================] - 0s 8ms/step - loss: 9.8186e-05 - acc: 1.0000 - val_loss: 0.0032 - val_acc: 0.9985
+Epoch 80/80
+45/45 [==============================] - 0s 8ms/step - loss: 1.0163e-04 - acc: 1.0000 - val_loss: 8.0628e-04 - val_acc: 1.0000

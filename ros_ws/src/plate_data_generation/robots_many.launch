@@ -1,0 +1,185 @@
+<launch>
+
+
+	<!-- <group ns="R1">
+		<param name="tf_prefix" value="R1_tf" />
+		<include file="$(find adeept_awr_gazebo)/launch/adeept_awr_urdf.launch">
+			<arg name="init_pose" value="-x -0.85 -y 0.0 -z 0.5 -R 0.0 -P 0.0 -Y 3.14" />
+			<arg name="robot_name"  value="R1" />
+		</include>
+		<include file="$(find enph353_utils)/launch/desktop.launch"/>
+	</group> -->
+
+
+    <!-- Far setting -->
+	<!-- <group ns="P1">
+		<param name="tf_prefix" value="P1_tf" />
+		<include file="$(find adeept_awr_gazebo)/launch/adeept_awr_urdf.launch">
+			<arg name="init_pose" value="-x -1.26 -y -.28 -z 0.5 -R 0.0 -P 0.0 -Y 4.71" />
+			<arg name="robot_name"  value="P1" />
+		</include>
+		<include file="$(find enph353_utils)/launch/desktop.launch"/>
+	</group>
+
+	<group ns="P2">
+		<param name="tf_prefix" value="P2_tf" />
+		<include file="$(find adeept_awr_gazebo)/launch/adeept_awr_urdf.launch">
+			<arg name="init_pose" value="-x -1.19 -y -1.073 -z 0.5 -R 0.0 -P 0.0 -Y 5.45" />
+			<arg name="robot_name"  value="P2" />
+		</include>
+		<include file="$(find enph353_utils)/launch/desktop.launch"/>
+	</group>
+
+	<group ns="P3">
+		<param name="tf_prefix" value="P3_tf" />
+		<include file="$(find adeept_awr_gazebo)/launch/adeept_awr_urdf.launch">
+			<arg name="init_pose" value="-x 1.14 -y -1.16 -z 0.5 -R 0.0 -P 0.0 -Y .96" />
+			<arg name="robot_name"  value="P3" />
+		</include>
+		<include file="$(find enph353_utils)/launch/desktop.launch"/>
+	</group>
+
+	<group ns="P4">
+		<param name="tf_prefix" value="P4_tf" />
+		<include file="$(find adeept_awr_gazebo)/launch/adeept_awr_urdf.launch">
+			<arg name="init_pose" value="-x 1.09 -y 1.208 -z 0.5 -R 0.0 -P 0.0 -Y 2.8" />
+			<arg name="robot_name"  value="P4" />
+		</include>
+		<include file="$(find enph353_utils)/launch/desktop.launch"/>
+	</group>
+
+	<group ns="P5">
+		<param name="tf_prefix" value="P5_tf" />
+		<include file="$(find adeept_awr_gazebo)/launch/adeept_awr_urdf.launch">
+			<arg name="init_pose" value="-x -.215 -y 1.216 -z 0.5 -R 0.0 -P 0.0 -Y 3.09" />
+			<arg name="robot_name"  value="P5" />
+		</include>
+		<include file="$(find enph353_utils)/launch/desktop.launch"/>
+	</group>
+
+	<group ns="P6">
+		<param name="tf_prefix" value="P6_tf" />
+		<include file="$(find adeept_awr_gazebo)/launch/adeept_awr_urdf.launch">
+			<arg name="init_pose" value="-x -1.20 -y 1.16 -z 0.5 -R 0.0 -P 0.0 -Y 4.2" />
+			<arg name="robot_name"  value="P6" />
+		</include>
+		<include file="$(find enph353_utils)/launch/desktop.launch"/>
+	</group>
+
+	<group ns="P7">
+		<param name="tf_prefix" value="P7_tf" />
+		<include file="$(find adeept_awr_gazebo)/launch/adeept_awr_urdf.launch">
+			<arg name="init_pose" value="-x -.397 -y .6046 -z 0.5 -R 0.0 -P 0.0 -Y .29" />
+			<arg name="robot_name"  value="P7" />
+		</include>
+		<include file="$(find enph353_utils)/launch/desktop.launch"/>
+	</group>
+
+	<group ns="P8">
+		<param name="tf_prefix" value="P8_tf" />
+		<include file="$(find adeept_awr_gazebo)/launch/adeept_awr_urdf.launch">
+			<arg name="init_pose" value="-x .547 -y -.54 -z 0.5 -R 0.0 -P 0.0 -Y 3.8" />
+			<arg name="robot_name"  value="P8" />
+		</include>
+		<include file="$(find enph353_utils)/launch/desktop.launch"/>
+	</group> -->
+
+		<!-- MEDIUM GROUP -->
+
+		<!-- Alter y more negative to move closer -->
+		<group ns="P1">
+		<param name="tf_prefix" value="P1_tf" />
+		<include file="$(find adeept_awr_gazebo)/launch/adeept_awr_urdf.launch">
+			<arg name="init_pose" value="-x -1.26 -y -.32 -z 0.5 -R 0.0 -P 0.0 -Y 4.71" />
+			<arg name="robot_name"  value="P1" />
+		</include>
+		<include file="$(find enph353_utils)/launch/desktop.launch"/>
+	</group>
+
+	<group ns="P2">
+		<param name="tf_prefix" value="P2_tf" />
+		<include file="$(find adeept_awr_gazebo)/launch/adeept_awr_urdf.launch">
+			<arg name="init_pose" value="-x -1.12 -y -1.083 -z 0.5 -R 0.0 -P 0.0 -Y 5.51" />
+			<arg name="robot_name"  value="P2" />
+		</include>
+		<include file="$(find enph353_utils)/launch/desktop.launch"/>
+	</group>
+
+	<group ns="P3">
+		<param name="tf_prefix" value="P3_tf" />
+		<include file="$(find adeept_awr_gazebo)/launch/adeept_awr_urdf.launch">
+			<arg name="init_pose" value="-x 1.14 -y -1.10 -z 0.5 -R 0.0 -P 0.0 -Y .96" />
+			<arg name="robot_name"  value="P3" />
+		</include>
+		<include file="$(find enph353_utils)/launch/desktop.launch"/>
+	</group>
+
+	<group ns="P4">
+		<param name="tf_prefix" value="P4_tf" />
+		<include file="$(find adeept_awr_gazebo)/launch/adeept_awr_urdf.launch">
+			<arg name="init_pose" value="-x 1.05 -y 1.208 -z 0.5 -R 0.0 -P 0.0 -Y 2.8" />
+			<arg name="robot_name"  value="P4" />
+		</include>
+		<include file="$(find enph353_utils)/launch/desktop.launch"/>
+	</group>
+
+	<!-- x more negative closer -->
+	<group ns="P5">
+		<param name="tf_prefix" value="P5_tf" />
+		<include file="$(find adeept_awr_gazebo)/launch/adeept_awr_urdf.launch">
+			<arg name="init_pose" value="-x -.265 -y 1.216 -z 0.5 -R 0.0 -P 0.0 -Y 3.02" />
+			<arg name="robot_name"  value="P5" />
+		</include>
+		<include file="$(find enph353_utils)/launch/desktop.launch"/>
+	</group>
+
+	<group ns="P6">
+		<param name="tf_prefix" value="P6_tf" />
+		<include file="$(find adeept_awr_gazebo)/launch/adeept_awr_urdf.launch">
+			<arg name="init_pose" value="-x -1.20 -y 1.05 -z 0.5 -R 0.0 -P 0.0 -Y 4.38" />
+			<arg name="robot_name"  value="P6" />
+		</include>
+		<include file="$(find enph353_utils)/launch/desktop.launch"/>
+	</group>
+
+	<group ns="P7">
+		<param name="tf_prefix" value="P7_tf" />
+		<include file="$(find adeept_awr_gazebo)/launch/adeept_awr_urdf.launch">
+			<arg name="init_pose" value="-x -.33 -y .6046 -z 0.5 -R 0.0 -P 0.0 -Y .10" />
+			<arg name="robot_name"  value="P7" />
+		</include>
+		<include file="$(find enph353_utils)/launch/desktop.launch"/>
+	</group>
+
+	<group ns="P8">
+		<param name="tf_prefix" value="P8_tf" />
+		<include file="$(find adeept_awr_gazebo)/launch/adeept_awr_urdf.launch">
+			<arg name="init_pose" value="-x .462 -y -.54 -z 0.5 -R 0.0 -P 0.0 -Y 3.61" />
+			<arg name="robot_name"  value="P8" />
+		</include>
+		<include file="$(find enph353_utils)/launch/desktop.launch"/>
+	</group>
+
+
+
+<!-- bootup the camera scraping node -->
+	<arg name="nrobots" default="8" />
+	<include file="$(find plate_data_generation)/launch/plate_data.launch">
+        <arg name="nrobots" value="$(arg nrobots)" />
+    </include>
+
+
+
+
+
+<!--
+	<group ns="B1">
+		<param name="tf_prefix" value="B1_tf" />
+		<include file="$(find adeept_awr_gazebo)/launch/adeept_awr_urdf.launch">
+			<arg name="init_pose" value="-x 0.0 -y 0.627 -z 1.0 -R 0.0 -P 0.0 -Y 1.57" />
+			<arg name="robot_name"  value="B1" />
+		</include>
+		<include file="$(find enph353_utils)/launch/desktop.launch"/>
+	</group>
+-->
+</launch>

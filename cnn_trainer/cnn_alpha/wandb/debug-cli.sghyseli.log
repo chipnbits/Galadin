@@ -1,0 +1,1 @@
+2023-04-05 17:22:47 WARNING Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f24391fca60>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution')': /api/5288891/envelope/

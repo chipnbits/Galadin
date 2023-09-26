@@ -1,0 +1,263 @@
+Epoch 1/140
+81/84 [===========================>..] - ETA: 0s - loss: 1.7844e-08 - acc: 1.0000
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 2 of 2). These functions will not be directly callable after loading.
+INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_190934-50nfae2d/files/model-best/assets
+
+81/84 [===========================>..] - ETA: 0s - loss: 1.7844e-08 - acc: 1.0000INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_190934-50nfae2d/files/model-best/assets
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 2 of 2). These functions will not be directly callable after loading.
+INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_190934-50nfae2d/files/model-best/assets
+wandb: Adding directory to artifact (/home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_190934-50nfae2d/files/model-best)... Done. 0.0s
+84/84 [==============================] - 2s 14ms/step - loss: 1.7284e-08 - acc: 1.0000 - val_loss: 0.0140 - val_acc: 0.9985
+Epoch 2/140
+80/84 [===========================>..] - ETA: 0s - loss: 2.7008e-08 - acc: 1.0000INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_190934-50nfae2d/files/model-best/assets
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 2 of 2). These functions will not be directly callable after loading.
+INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_190934-50nfae2d/files/model-best/assets
+wandb: Adding directory to artifact (/home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_190934-50nfae2d/files/model-best)... Done. 0.0s
+84/84 [==============================] - 1s 12ms/step - loss: 2.5881e-08 - acc: 1.0000 - val_loss: 0.0139 - val_acc: 0.9985
+Epoch 3/140
+82/84 [============================>.] - ETA: 0s - loss: 1.4236e-07 - acc: 1.0000INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_190934-50nfae2d/files/model-best/assets
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 2 of 2). These functions will not be directly callable after loading.
+INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_190934-50nfae2d/files/model-best/assets
+wandb: Adding directory to artifact (/home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_190934-50nfae2d/files/model-best)... Done. 0.0s
+84/84 [==============================] - 1s 11ms/step - loss: 1.4062e-07 - acc: 1.0000 - val_loss: 0.0136 - val_acc: 0.9985
+Epoch 4/140
+72/84 [========================>.....] - ETA: 0s - loss: 1.8215e-06 - acc: 1.0000INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_190934-50nfae2d/files/model-best/assets
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 2 of 2). These functions will not be directly callable after loading.
+INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_190934-50nfae2d/files/model-best/assets
+wandb: Adding directory to artifact (/home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_190934-50nfae2d/files/model-best)... Done. 0.0s
+84/84 [==============================] - 1s 11ms/step - loss: 1.5683e-06 - acc: 1.0000 - val_loss: 0.0130 - val_acc: 0.9985
+Epoch 5/140
+84/84 [==============================] - 0s 4ms/step - loss: 1.2236e-07 - acc: 1.0000 - val_loss: 0.0133 - val_acc: 0.9985
+Epoch 6/140
+84/84 [==============================] - 0s 4ms/step - loss: 1.1572e-07 - acc: 1.0000 - val_loss: 0.0142 - val_acc: 0.9985
+Epoch 7/140
+84/84 [==============================] - 0s 4ms/step - loss: 1.5424e-05 - acc: 1.0000 - val_loss: 0.0145 - val_acc: 0.9985
+Epoch 8/140
+84/84 [==============================] - 0s 4ms/step - loss: 2.3521e-08 - acc: 1.0000 - val_loss: 0.0147 - val_acc: 0.9985
+Epoch 9/140
+84/84 [==============================] - 0s 4ms/step - loss: 7.8403e-09 - acc: 1.0000 - val_loss: 0.0147 - val_acc: 0.9985
+Epoch 10/140
+84/84 [==============================] - 0s 4ms/step - loss: 1.7488e-05 - acc: 1.0000 - val_loss: 0.0148 - val_acc: 0.9985
+Epoch 11/140
+84/84 [==============================] - 0s 4ms/step - loss: 6.2229e-08 - acc: 1.0000 - val_loss: 0.0140 - val_acc: 0.9985
+Epoch 12/140
+84/84 [==============================] - 0s 4ms/step - loss: 9.5270e-07 - acc: 1.0000 - val_loss: 0.0136 - val_acc: 0.9985
+Epoch 13/140
+84/84 [==============================] - 0s 4ms/step - loss: 5.7059e-05 - acc: 1.0000 - val_loss: 0.0135 - val_acc: 0.9985
+Epoch 14/140
+84/84 [==============================] - 0s 4ms/step - loss: 2.6060e-08 - acc: 1.0000 - val_loss: 0.0137 - val_acc: 0.9985
+Epoch 15/140
+84/84 [==============================] - 0s 4ms/step - loss: 1.3777e-07 - acc: 1.0000 - val_loss: 0.0133 - val_acc: 0.9985
+Epoch 16/140
+77/84 [==========================>...] - ETA: 0s - loss: 9.6365e-08 - acc: 1.0000INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_190934-50nfae2d/files/model-best/assets
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 2 of 2). These functions will not be directly callable after loading.
+INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_190934-50nfae2d/files/model-best/assets
+wandb: Adding directory to artifact (/home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_190934-50nfae2d/files/model-best)... Done. 0.0s
+84/84 [==============================] - 1s 11ms/step - loss: 8.8865e-08 - acc: 1.0000 - val_loss: 0.0125 - val_acc: 0.9985
+Epoch 17/140
+84/84 [==============================] - 0s 4ms/step - loss: 4.3657e-09 - acc: 1.0000 - val_loss: 0.0126 - val_acc: 0.9985
+Epoch 18/140
+84/84 [==============================] - 0s 4ms/step - loss: 1.7049e-07 - acc: 1.0000 - val_loss: 0.0126 - val_acc: 0.9985
+Epoch 19/140
+72/84 [========================>.....] - ETA: 0s - loss: 1.6557e-08 - acc: 1.0000INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_190934-50nfae2d/files/model-best/assets
+84/84 [==============================] - 1s 15ms/step - loss: 3.3143e-08 - acc: 1.0000 - val_loss: 0.0123 - val_acc: 0.9985
+Epoch 20/140
+84/84 [==============================] - 0s 5ms/step - loss: 5.1405e-08 - acc: 1.0000 - val_loss: 0.0123 - val_acc: 0.9985
+Epoch 21/140
+84/84 [==============================] - 0s 4ms/step - loss: 3.1807e-08 - acc: 1.0000 - val_loss: 0.0124 - val_acc: 0.9985
+Epoch 22/140
+71/84 [========================>.....] - ETA: 0s - loss: 1.4895e-07 - acc: 1.0000INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_190934-50nfae2d/files/model-best/assets
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 2 of 2). These functions will not be directly callable after loading.
+INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_190934-50nfae2d/files/model-best/assets
+wandb: Adding directory to artifact (/home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_190934-50nfae2d/files/model-best)... Done. 0.0s
+84/84 [==============================] - 1s 12ms/step - loss: 1.3666e-07 - acc: 1.0000 - val_loss: 0.0120 - val_acc: 0.9985
+Epoch 23/140
+82/84 [============================>.] - ETA: 0s - loss: 6.8201e-06 - acc: 1.0000INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_190934-50nfae2d/files/model-best/assets
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 2 of 2). These functions will not be directly callable after loading.
+INFO:tensorflow:Assets written to: /home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_190934-50nfae2d/files/model-best/assets
+wandb: Adding directory to artifact (/home/sghyseli/cnn_trainer/cnn_parking_numbers/wandb/run-20230315_190934-50nfae2d/files/model-best)... Done. 0.0s
+84/84 [==============================] - 1s 12ms/step - loss: 6.6876e-06 - acc: 1.0000 - val_loss: 0.0118 - val_acc: 0.9985
+Epoch 24/140
+84/84 [==============================] - 0s 4ms/step - loss: 7.3276e-08 - acc: 1.0000 - val_loss: 0.0119 - val_acc: 0.9985
+Epoch 25/140
+84/84 [==============================] - 0s 4ms/step - loss: 4.5660e-08 - acc: 1.0000 - val_loss: 0.0119 - val_acc: 0.9985
+Epoch 26/140
+84/84 [==============================] - 0s 4ms/step - loss: 7.4983e-06 - acc: 1.0000 - val_loss: 0.0136 - val_acc: 0.9985
+Epoch 27/140
+84/84 [==============================] - 0s 5ms/step - loss: 3.3499e-08 - acc: 1.0000 - val_loss: 0.0138 - val_acc: 0.9985
+Epoch 28/140
+84/84 [==============================] - 0s 4ms/step - loss: 2.4661e-06 - acc: 1.0000 - val_loss: 0.0137 - val_acc: 0.9985
+Epoch 29/140
+84/84 [==============================] - 0s 5ms/step - loss: 2.8357e-06 - acc: 1.0000 - val_loss: 0.0141 - val_acc: 0.9985
+Epoch 30/140
+84/84 [==============================] - 0s 4ms/step - loss: 1.8165e-07 - acc: 1.0000 - val_loss: 0.0141 - val_acc: 0.9985
+Epoch 31/140
+84/84 [==============================] - 0s 5ms/step - loss: 1.7982e-06 - acc: 1.0000 - val_loss: 0.0140 - val_acc: 0.9985
+Epoch 32/140
+84/84 [==============================] - 0s 5ms/step - loss: 2.2400e-07 - acc: 1.0000 - val_loss: 0.0137 - val_acc: 0.9985
+Epoch 33/140
+84/84 [==============================] - 0s 4ms/step - loss: 3.1571e-06 - acc: 1.0000 - val_loss: 0.0131 - val_acc: 0.9985
+Epoch 34/140
+84/84 [==============================] - 0s 6ms/step - loss: 1.5767e-07 - acc: 1.0000 - val_loss: 0.0129 - val_acc: 0.9985
+Epoch 35/140
+84/84 [==============================] - 0s 4ms/step - loss: 2.1917e-08 - acc: 1.0000 - val_loss: 0.0127 - val_acc: 0.9985
+Epoch 36/140
+84/84 [==============================] - 0s 5ms/step - loss: 1.3438e-07 - acc: 1.0000 - val_loss: 0.0128 - val_acc: 0.9985
+Epoch 37/140
+84/84 [==============================] - 0s 5ms/step - loss: 2.2274e-09 - acc: 1.0000 - val_loss: 0.0129 - val_acc: 0.9985
+Epoch 38/140
+84/84 [==============================] - 0s 5ms/step - loss: 2.3209e-08 - acc: 1.0000 - val_loss: 0.0137 - val_acc: 0.9985
+Epoch 39/140
+84/84 [==============================] - 0s 4ms/step - loss: 1.9601e-09 - acc: 1.0000 - val_loss: 0.0137 - val_acc: 0.9985
+Epoch 40/140
+84/84 [==============================] - 0s 5ms/step - loss: 3.6529e-09 - acc: 1.0000 - val_loss: 0.0136 - val_acc: 0.9985
+Epoch 41/140
+84/84 [==============================] - 0s 4ms/step - loss: 1.1003e-08 - acc: 1.0000 - val_loss: 0.0139 - val_acc: 0.9985
+Epoch 42/140
+84/84 [==============================] - 0s 4ms/step - loss: 1.4463e-07 - acc: 1.0000 - val_loss: 0.0139 - val_acc: 0.9985
+Epoch 43/140
+84/84 [==============================] - 0s 4ms/step - loss: 4.5399e-07 - acc: 1.0000 - val_loss: 0.0143 - val_acc: 0.9985
+Epoch 44/140
+84/84 [==============================] - 0s 4ms/step - loss: 2.1761e-07 - acc: 1.0000 - val_loss: 0.0143 - val_acc: 0.9985
+Epoch 45/140
+84/84 [==============================] - 0s 4ms/step - loss: 1.2374e-04 - acc: 1.0000 - val_loss: 0.0140 - val_acc: 0.9985
+Epoch 46/140
+84/84 [==============================] - 0s 4ms/step - loss: 3.3810e-08 - acc: 1.0000 - val_loss: 0.0141 - val_acc: 0.9985
+Epoch 47/140
+84/84 [==============================] - 0s 4ms/step - loss: 1.0463e-07 - acc: 1.0000 - val_loss: 0.0136 - val_acc: 0.9985
+Epoch 48/140
+84/84 [==============================] - 0s 4ms/step - loss: 1.2824e-07 - acc: 1.0000 - val_loss: 0.0141 - val_acc: 0.9985
+Epoch 49/140
+84/84 [==============================] - 0s 5ms/step - loss: 2.5216e-04 - acc: 1.0000 - val_loss: 0.0141 - val_acc: 0.9985
+Epoch 50/140
+84/84 [==============================] - 0s 4ms/step - loss: 1.7373e-08 - acc: 1.0000 - val_loss: 0.0144 - val_acc: 0.9985
+Epoch 51/140
+84/84 [==============================] - 0s 4ms/step - loss: 1.7148e-07 - acc: 1.0000 - val_loss: 0.0139 - val_acc: 0.9985
+Epoch 52/140
+84/84 [==============================] - 0s 5ms/step - loss: 3.8087e-08 - acc: 1.0000 - val_loss: 0.0136 - val_acc: 0.9985
+Epoch 53/140
+84/84 [==============================] - 0s 5ms/step - loss: 1.0513e-08 - acc: 1.0000 - val_loss: 0.0139 - val_acc: 0.9985
+Epoch 54/140
+84/84 [==============================] - 0s 4ms/step - loss: 1.7373e-08 - acc: 1.0000 - val_loss: 0.0144 - val_acc: 0.9985
+Epoch 55/140
+81/84 [===========================>..] - ETA: 0s - loss: 4.6451e-09 - acc: 1.00000000 - val_loss: 0.0144 - val_acc: 0.9985
+Epoch 56/140
+84/84 [==============================] - 0s 4ms/step - loss: 7.0200e-05 - acc: 1.0000 - val_loss: 0.0140 - val_acc: 0.9985
+Epoch 57/140
+84/84 [==============================] - 0s 4ms/step - loss: 7.5933e-05 - acc: 1.0000 - val_loss: 0.0138 - val_acc: 0.9985
+Epoch 58/140
+84/84 [==============================] - 0s 4ms/step - loss: 1.9411e-07 - acc: 1.0000 - val_loss: 0.0139 - val_acc: 0.9985
+Epoch 59/140
+84/84 [==============================] - 0s 4ms/step - loss: 1.6889e-06 - acc: 1.0000 - val_loss: 0.0146 - val_acc: 0.9985
+Epoch 60/140
+84/84 [==============================] - 0s 4ms/step - loss: 1.0525e-07 - acc: 1.0000 - val_loss: 0.0150 - val_acc: 0.9985
+Epoch 61/140
+84/84 [==============================] - 0s 4ms/step - loss: 5.7732e-08 - acc: 1.0000 - val_loss: 0.0152 - val_acc: 0.9985
+Epoch 62/140
+84/84 [==============================] - 0s 4ms/step - loss: 3.3722e-08 - acc: 1.0000 - val_loss: 0.0154 - val_acc: 0.9985
+Epoch 63/140
+84/84 [==============================] - 0s 4ms/step - loss: 0.0020 - acc: 0.9996 - val_loss: 0.0151 - val_acc: 0.9985
+Epoch 64/140
+84/84 [==============================] - 0s 4ms/step - loss: 0.0011 - acc: 0.9996 - val_loss: 0.0149 - val_acc: 0.9985
+Epoch 65/140
+84/84 [==============================] - 0s 4ms/step - loss: 1.0525e-07 - acc: 1.0000 - val_loss: 0.0150 - val_acc: 0.9985
+Epoch 66/140
+75/84 [=========================>....] - ETA: 0s - loss: 1.4057e-08 - acc: 1.00000000 - val_loss: 0.0150 - val_acc: 0.9985
+Epoch 67/140
+84/84 [==============================] - 0s 4ms/step - loss: 9.6864e-05 - acc: 1.0000 - val_loss: 0.0142 - val_acc: 0.9985
+Epoch 68/140
+84/84 [==============================] - 0s 4ms/step - loss: 1.7779e-07 - acc: 1.0000 - val_loss: 0.0144 - val_acc: 0.9985
+Epoch 69/140
+84/84 [==============================] - 0s 4ms/step - loss: 1.1221e-07 - acc: 1.0000 - val_loss: 0.0144 - val_acc: 0.9985
+Epoch 70/140
+84/84 [==============================] - 0s 4ms/step - loss: 2.8154e-08 - acc: 1.0000 - val_loss: 0.0145 - val_acc: 0.9985
+Epoch 71/140
+84/84 [==============================] - 0s 4ms/step - loss: 4.6185e-07 - acc: 1.0000 - val_loss: 0.0143 - val_acc: 0.9985
+Epoch 72/140
+52/84 [=================>............] - ETA: 0s - loss: 5.7312e-09 - acc: 1.00000000 - val_loss: 0.0144 - val_acc: 0.9985
+Epoch 73/140
+84/84 [==============================] - 0s 4ms/step - loss: 1.2690e-07 - acc: 1.0000 - val_loss: 0.0145 - val_acc: 0.9985
+Epoch 74/140
+84/84 [==============================] - 0s 4ms/step - loss: 3.6084e-09 - acc: 1.0000 - val_loss: 0.0145 - val_acc: 0.9985
+Epoch 75/140
+84/84 [==============================] - 0s 4ms/step - loss: 7.4651e-06 - acc: 1.0000 - val_loss: 0.0144 - val_acc: 0.9985
+Epoch 76/140
+84/84 [==============================] - 0s 4ms/step - loss: 3.3856e-09 - acc: 1.0000 - val_loss: 0.0144 - val_acc: 0.9985
+Epoch 77/140
+84/84 [==============================] - 0s 4ms/step - loss: 2.6149e-08 - acc: 1.0000 - val_loss: 0.0146 - val_acc: 0.9985
+Epoch 78/140
+84/84 [==============================] - 0s 4ms/step - loss: 1.3631e-08 - acc: 1.0000 - val_loss: 0.0150 - val_acc: 0.9985
+Epoch 79/140
+84/84 [==============================] - 0s 5ms/step - loss: 5.1184e-07 - acc: 1.0000 - val_loss: 0.0146 - val_acc: 0.9985
+Epoch 80/140
+84/84 [==============================] - 1s 6ms/step - loss: 9.3995e-09 - acc: 1.0000 - val_loss: 0.0142 - val_acc: 0.9985
+Epoch 81/140
+84/84 [==============================] - 0s 4ms/step - loss: 1.8265e-07 - acc: 1.0000 - val_loss: 0.0142 - val_acc: 0.9985
+Epoch 82/140
+84/84 [==============================] - 0s 4ms/step - loss: 1.0380e-08 - acc: 1.0000 - val_loss: 0.0143 - val_acc: 0.9985
+Epoch 83/140
+66/84 [======================>.......] - ETA: 0s - loss: 7.3377e-09 - acc: 1.0000
+84/84 [==============================] - 0s 4ms/step - loss: 2.0581e-08 - acc: 1.0000 - val_loss: 0.0144 - val_acc: 0.9985
+Epoch 85/140
+84/84 [==============================] - 0s 4ms/step - loss: 5.7400e-07 - acc: 1.0000 - val_loss: 0.0141 - val_acc: 0.9985
+Epoch 86/140
+84/84 [==============================] - 0s 4ms/step - loss: 2.5951e-07 - acc: 1.0000 - val_loss: 0.0143 - val_acc: 0.9985
+Epoch 87/140
+84/84 [==============================] - 0s 5ms/step - loss: 6.5039e-09 - acc: 1.0000 - val_loss: 0.0146 - val_acc: 0.9985
+Epoch 88/140
+84/84 [==============================] - 0s 4ms/step - loss: 2.0937e-09 - acc: 1.0000 - val_loss: 0.0146 - val_acc: 0.9985
+Epoch 89/140
+28/84 [=========>....................] - ETA: 0s - loss: 1.2772e-08 - acc: 1.0000
+84/84 [==============================] - 0s 4ms/step - loss: 1.6438e-08 - acc: 1.0000 - val_loss: 0.0144 - val_acc: 0.9985
+Epoch 91/140
+84/84 [==============================] - 0s 4ms/step - loss: 5.7599e-08 - acc: 1.0000 - val_loss: 0.0148 - val_acc: 0.9985
+Epoch 92/140
+84/84 [==============================] - 0s 5ms/step - loss: 6.6352e-06 - acc: 1.0000 - val_loss: 0.0137 - val_acc: 0.9985
+Epoch 93/140
+84/84 [==============================] - 0s 4ms/step - loss: 0.0029 - acc: 0.9996 - val_loss: 0.0139 - val_acc: 0.9985
+Epoch 94/140
+65/84 [======================>.......] - ETA: 0s - loss: 1.8645e-05 - acc: 1.0000
+84/84 [==============================] - 0s 4ms/step - loss: 1.2415e-07 - acc: 1.0000 - val_loss: 0.0131 - val_acc: 0.9985
+Epoch 97/140
+84/84 [==============================] - 0s 4ms/step - loss: 1.1630e-07 - acc: 1.0000 - val_loss: 0.0139 - val_acc: 0.9985
+Epoch 98/140
+84/84 [==============================] - 0s 4ms/step - loss: 2.7744e-07 - acc: 1.0000 - val_loss: 0.0146 - val_acc: 0.9985
+Epoch 99/140
+84/84 [==============================] - 0s 4ms/step - loss: 2.9401e-09 - acc: 1.0000 - val_loss: 0.0146 - val_acc: 0.9985
+Epoch 100/140
+30/84 [=========>....................] - ETA: 0s - loss: 3.4893e-08 - acc: 1.0000
+84/84 [==============================] - 0s 4ms/step - loss: 1.9511e-08 - acc: 1.0000 - val_loss: 0.0145 - val_acc: 0.9985
+Epoch 103/140
+84/84 [==============================] - 0s 4ms/step - loss: 8.5926e-08 - acc: 1.0000 - val_loss: 0.0143 - val_acc: 0.9985
+Epoch 104/140
+84/84 [==============================] - 0s 4ms/step - loss: 1.0944e-07 - acc: 1.0000 - val_loss: 0.0147 - val_acc: 0.9985
+Epoch 105/140
+84/84 [==============================] - 0s 4ms/step - loss: 1.3008e-08 - acc: 1.0000 - val_loss: 0.0148 - val_acc: 0.9985
+Epoch 106/140
+ 1/84 [..............................] - ETA: 0s - loss: 0.0000e+00 - acc: 1.0000
+84/84 [==============================] - 0s 4ms/step - loss: 9.8350e-08 - acc: 1.0000 - val_loss: 0.0149 - val_acc: 0.9985
+Epoch 109/140
+84/84 [==============================] - 0s 4ms/step - loss: 9.5777e-09 - acc: 1.0000 - val_loss: 0.0149 - val_acc: 0.9985
+Epoch 110/140
+84/84 [==============================] - 0s 4ms/step - loss: 5.6130e-09 - acc: 1.0000 - val_loss: 0.0145 - val_acc: 0.9985
+Epoch 111/140
+67/84 [======================>.......] - ETA: 0s - loss: 1.6625e-08 - acc: 1.0000
+84/84 [==============================] - 0s 4ms/step - loss: 4.3747e-06 - acc: 1.0000 - val_loss: 0.0142 - val_acc: 0.9985
+Epoch 115/140
+84/84 [==============================] - 0s 4ms/step - loss: 1.2473e-09 - acc: 1.0000 - val_loss: 0.0142 - val_acc: 0.9985
+Epoch 116/140
+84/84 [==============================] - 0s 5ms/step - loss: 2.5204e-07 - acc: 1.0000 - val_loss: 0.0143 - val_acc: 0.9985
+Epoch 117/140
+13/84 [===>..........................] - ETA: 0s - loss: 2.5790e-09 - acc: 1.0000
+84/84 [==============================] - 0s 4ms/step - loss: 3.5856e-07 - acc: 1.0000 - val_loss: 0.0136 - val_acc: 0.9985
+Epoch 121/140
+84/84 [==============================] - 0s 4ms/step - loss: 1.1048e-08 - acc: 1.0000 - val_loss: 0.0136 - val_acc: 0.9985
+Epoch 122/140
+65/84 [======================>.......] - ETA: 0s - loss: 1.3124e-08 - acc: 1.0000
+84/84 [==============================] - 0s 5ms/step - loss: 3.0338e-07 - acc: 1.0000 - val_loss: 0.0139 - val_acc: 0.9985
+Epoch 127/140
+45/84 [===============>..............] - ETA: 0s - loss: 1.9123e-08 - acc: 1.0000
+38/84 [============>.................] - ETA: 0s - loss: 1.7744e-08 - acc: 1.00000000 - val_loss: 0.0139 - val_acc: 0.9985
+84/84 [==============================] - 0s 4ms/step - loss: 2.4590e-08 - acc: 1.0000 - val_loss: 0.0150 - val_acc: 0.9985
+84/84 [==============================] - 0s 5ms/step - loss: 2.7196e-07 - acc: 1.0000 - val_loss: 0.0151 - val_acc: 0.9985
+84/84 [==============================] - 0s 5ms/step - loss: 2.7196e-07 - acc: 1.0000 - val_loss: 0.0151 - val_acc: 0.9985

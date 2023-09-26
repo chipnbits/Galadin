@@ -1,0 +1,19 @@
+
+wandb: WARNING The save_model argument by default saves the model in the HDF5 format that cannot save custom objects like subclassed models and custom layers. This behavior will be deprecated in a future release in favor of the SavedModel format. Meanwhile, the HDF5 model is saved as W&B files and the SavedModel as W&B Artifacts.
+Epoch 1/40
+  6/590 [..............................] - ETA: 7s - loss: 3.5911 - acc: 0.0365  WARNING:tensorflow:Callback method `on_train_batch_end` is slow compared to the batch time (batch time: 0.0056s vs `on_train_batch_end` time: 0.0079s). Check your callbacks.
+
+
+
+
+590/590 [==============================] - ETA: 0s - loss: 3.3972 - acc: 0.1237
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 4 of 4). These functions will not be directly callable after loading.
+INFO:tensorflow:Assets written to: /home/sghyseli/gadalin/cnn_trainer/cnn_alpha/wandb/run-20230406_024654-j9uge50j/files/model-best/assets
+
+590/590 [==============================] - ETA: 0s - loss: 3.3972 - acc: 0.1237INFO:tensorflow:Assets written to: /home/sghyseli/gadalin/cnn_trainer/cnn_alpha/wandb/run-20230406_024654-j9uge50j/files/model-best/assets
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 4 of 4). These functions will not be directly callable after loading.
+INFO:tensorflow:Assets written to: /home/sghyseli/gadalin/cnn_trainer/cnn_alpha/wandb/run-20230406_024654-j9uge50j/files/model-best/assets
+wandb: Adding directory to artifact (/home/sghyseli/gadalin/cnn_trainer/cnn_alpha/wandb/run-20230406_024654-j9uge50j/files/model-best)... Done. 0.1s
+Epoch 1: saving model to /home/sghyseli/gadalin/cnn_trainer/cnn_alpha/weights/epoch_01.h5
+590/590 [==============================] - 12s 19ms/step - loss: 3.3972 - acc: 0.1237 - val_loss: 2.7958 - val_acc: 0.4040
+Epoch 2/40

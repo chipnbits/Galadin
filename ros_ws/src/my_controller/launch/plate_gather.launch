@@ -1,0 +1,7 @@
+<!-- This file launches all of the nodes needed for the competition -->
+
+<launch>
+    <!-- Launch the main controller -->
+    <node pkg="my_controller" type="plate_gather_engine.py" name="plate_gather"  output="screen" />
+    <!-- Launch the seperate node for plate detection -->
+</launch>
