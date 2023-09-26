@@ -1,5 +1,8 @@
-# gadalin
-UBC ENPH 353 - CNN Robot Vision project course
+# Gadalin
+Applied Computer Vision and Machine Learning
+
+See the [Team 13 - Final Report](Team%2013%20-%20Final%20Report.pdf)
+ for a description of the project and outcomes.
 
 ## File description of repo
 
