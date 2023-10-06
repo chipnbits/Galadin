@@ -1,5 +1,8 @@
 # Gadalin
 Applied Computer Vision and Machine Learning
+ - Computer Vision Preprocessing
+ - Convolutional Neural Network Character Recognition
+ - Autonomous Driving Control
 
 See the [Team 13 - Final Report](Team%2013%20-%20Final%20Report.pdf)
  for a description of the project and outcomes.
