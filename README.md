@@ -4,6 +4,9 @@ Applied Computer Vision and Machine Learning
 See the [Team 13 - Final Report](Team%2013%20-%20Final%20Report.pdf)
  for a description of the project and outcomes.
 
+## Galadin in Action
+<img src="https://github.com/chipnbits/Galadin/raw/main/sampleRun.gif"  />
+
 ## File description of repo
 
 - `ros_ws/`: Contains the ROS workspace.
